@@ -1,0 +1,1729 @@
+﻿fecha,anio,mes,producto,cliente,tipo_cliente,zona,precio_unitario,promocion,unidades,ventas_total
+2023-01-01,2023,1,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.0,0,160,4000.0
+2023-01-01,2023,1,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.0,0,81,2025.0
+2023-01-01,2023,1,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.0,1,159,3975.0
+2023-01-01,2023,1,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.0,0,145,3625.0
+2023-01-01,2023,1,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.0,1,66,1650.0
+2023-01-01,2023,1,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.0,0,89,2225.0
+2023-01-01,2023,1,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.0,0,89,2225.0
+2023-01-01,2023,1,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.0,0,44,1100.0
+2023-01-01,2023,1,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.0,0,69,1725.0
+2023-01-01,2023,1,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.0,0,79,1975.0
+2023-01-01,2023,1,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.0,0,37,925.0
+2023-01-01,2023,1,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.0,0,70,1750.0
+2023-01-01,2023,1,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.0,0,184,7360.0
+2023-01-01,2023,1,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.0,0,75,3000.0
+2023-01-01,2023,1,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.0,1,147,5880.0
+2023-01-01,2023,1,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.0,1,181,7240.0
+2023-01-01,2023,1,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.0,0,51,2040.0
+2023-01-01,2023,1,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.0,0,93,3720.0
+2023-01-01,2023,1,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.0,1,147,5880.0
+2023-01-01,2023,1,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.0,0,42,1680.0
+2023-01-01,2023,1,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.0,0,92,3680.0
+2023-01-01,2023,1,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.0,0,96,3840.0
+2023-01-01,2023,1,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.0,0,41,1640.0
+2023-01-01,2023,1,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.0,0,72,2880.0
+2023-01-01,2023,1,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,85.0,1,97,8245.0
+2023-01-01,2023,1,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,85.0,0,32,2720.0
+2023-01-01,2023,1,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,85.0,0,51,4335.0
+2023-01-01,2023,1,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,85.0,0,57,4845.0
+2023-01-01,2023,1,Válvula de control,C05 Talleres Unidos,Minorista,Centro,85.0,0,29,2465.0
+2023-01-01,2023,1,Válvula de control,C06 Logística Capital,Distribuidor,Centro,85.0,0,49,4165.0
+2023-01-01,2023,1,Válvula de control,C07 Minera del Sur,Mayorista,Sur,85.0,0,56,4760.0
+2023-01-01,2023,1,Válvula de control,C08 Ferretería Austral,Minorista,Sur,85.0,0,18,1530.0
+2023-01-01,2023,1,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,85.0,0,29,2465.0
+2023-01-01,2023,1,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,85.0,1,57,4845.0
+2023-01-01,2023,1,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,85.0,0,21,1785.0
+2023-01-01,2023,1,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,85.0,0,29,2465.0
+2023-01-01,2023,1,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.0,0,303,5454.0
+2023-01-01,2023,1,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.0,0,147,2646.0
+2023-01-01,2023,1,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.0,0,267,4806.0
+2023-01-01,2023,1,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.0,0,255,4590.0
+2023-01-01,2023,1,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.0,0,101,1818.0
+2023-01-01,2023,1,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.0,0,175,3150.0
+2023-01-01,2023,1,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.0,1,241,4338.0
+2023-01-01,2023,1,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.0,0,83,1494.0
+2023-01-01,2023,1,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.0,0,127,2286.0
+2023-01-01,2023,1,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.0,0,136,2448.0
+2023-01-01,2023,1,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.0,0,72,1296.0
+2023-01-01,2023,1,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.0,0,118,2124.0
+2023-02-01,2023,2,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.06,0,213,5337.78
+2023-02-01,2023,2,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.06,0,99,2480.94
+2023-02-01,2023,2,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.06,0,159,3984.54
+2023-02-01,2023,2,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.06,0,151,3784.06
+2023-02-01,2023,2,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.06,0,62,1553.72
+2023-02-01,2023,2,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.06,0,102,2556.12
+2023-02-01,2023,2,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.06,0,99,2480.94
+2023-02-01,2023,2,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.06,0,47,1177.82
+2023-02-01,2023,2,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.06,0,85,2130.1
+2023-02-01,2023,2,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.06,0,95,2380.7
+2023-02-01,2023,2,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.06,0,40,1002.4
+2023-02-01,2023,2,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.06,0,84,2105.04
+2023-02-01,2023,2,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.1,0,188,7538.8
+2023-02-01,2023,2,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.1,0,69,2766.9
+2023-02-01,2023,2,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.1,0,131,5253.1
+2023-02-01,2023,2,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.1,0,132,5293.2
+2023-02-01,2023,2,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.1,1,77,3087.7
+2023-02-01,2023,2,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.1,0,96,3849.6
+2023-02-01,2023,2,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.1,0,130,5213.0
+2023-02-01,2023,2,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.1,0,42,1684.2
+2023-02-01,2023,2,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.1,0,69,2766.9
+2023-02-01,2023,2,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.1,0,96,3849.6
+2023-02-01,2023,2,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.1,0,47,1884.7
+2023-02-01,2023,2,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.1,0,78,3127.8
+2023-02-01,2023,2,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,85.21,1,96,8180.16
+2023-02-01,2023,2,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,85.21,0,39,3323.19
+2023-02-01,2023,2,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,85.21,1,81,6902.01
+2023-02-01,2023,2,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,85.21,1,80,6816.8
+2023-02-01,2023,2,Válvula de control,C05 Talleres Unidos,Minorista,Centro,85.21,0,27,2300.67
+2023-02-01,2023,2,Válvula de control,C06 Logística Capital,Distribuidor,Centro,85.21,0,37,3152.77
+2023-02-01,2023,2,Válvula de control,C07 Minera del Sur,Mayorista,Sur,85.21,0,57,4856.97
+2023-02-01,2023,2,Válvula de control,C08 Ferretería Austral,Minorista,Sur,85.21,0,18,1533.78
+2023-02-01,2023,2,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,85.21,0,31,2641.51
+2023-02-01,2023,2,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,85.21,0,40,3408.4
+2023-02-01,2023,2,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,85.21,0,20,1704.2
+2023-02-01,2023,2,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,85.21,0,37,3152.77
+2023-02-01,2023,2,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.04,1,340,6133.6
+2023-02-01,2023,2,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.04,0,156,2814.24
+2023-02-01,2023,2,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.04,0,232,4185.28
+2023-02-01,2023,2,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.04,1,325,5863.0
+2023-02-01,2023,2,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.04,0,102,1840.08
+2023-02-01,2023,2,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.04,1,224,4040.96
+2023-02-01,2023,2,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.04,0,215,3878.6
+2023-02-01,2023,2,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.04,0,62,1118.48
+2023-02-01,2023,2,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.04,0,136,2453.44
+2023-02-01,2023,2,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.04,0,136,2453.44
+2023-02-01,2023,2,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.04,0,75,1353.0
+2023-02-01,2023,2,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.04,0,131,2363.24
+2023-03-01,2023,3,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.12,0,214,5375.68
+2023-03-01,2023,3,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.12,0,104,2612.48
+2023-03-01,2023,3,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.12,0,175,4396.0
+2023-03-01,2023,3,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.12,0,167,4195.04
+2023-03-01,2023,3,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.12,0,93,2336.16
+2023-03-01,2023,3,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.12,0,123,3089.76
+2023-03-01,2023,3,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.12,0,140,3516.8
+2023-03-01,2023,3,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.12,1,71,1783.52
+2023-03-01,2023,3,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.12,0,92,2311.04
+2023-03-01,2023,3,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.12,0,119,2989.28
+2023-03-01,2023,3,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.12,0,49,1230.88
+2023-03-01,2023,3,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.12,0,92,2311.04
+2023-03-01,2023,3,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.2,0,174,6994.8
+2023-03-01,2023,3,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.2,0,80,3216.0
+2023-03-01,2023,3,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.2,0,140,5628.0
+2023-03-01,2023,3,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.2,1,206,8281.2
+2023-03-01,2023,3,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.2,0,66,2653.2
+2023-03-01,2023,3,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.2,0,100,4020.0
+2023-03-01,2023,3,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.2,0,115,4623.0
+2023-03-01,2023,3,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.2,0,48,1929.6
+2023-03-01,2023,3,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.2,0,79,3175.8
+2023-03-01,2023,3,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.2,0,93,3738.6
+2023-03-01,2023,3,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.2,0,48,1929.6
+2023-03-01,2023,3,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.2,0,70,2814.0
+2023-03-01,2023,3,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,85.42,0,78,6662.76
+2023-03-01,2023,3,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,85.42,0,34,2904.28
+2023-03-01,2023,3,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,85.42,0,54,4612.68
+2023-03-01,2023,3,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,85.42,1,64,5466.88
+2023-03-01,2023,3,Válvula de control,C05 Talleres Unidos,Minorista,Centro,85.42,0,20,1708.4
+2023-03-01,2023,3,Válvula de control,C06 Logística Capital,Distribuidor,Centro,85.42,0,41,3502.22
+2023-03-01,2023,3,Válvula de control,C07 Minera del Sur,Mayorista,Sur,85.42,1,58,4954.36
+2023-03-01,2023,3,Válvula de control,C08 Ferretería Austral,Minorista,Sur,85.42,0,16,1366.72
+2023-03-01,2023,3,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,85.42,0,32,2733.44
+2023-03-01,2023,3,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,85.42,1,40,3416.8
+2023-03-01,2023,3,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,85.42,1,26,2220.92
+2023-03-01,2023,3,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,85.42,0,33,2818.86
+2023-03-01,2023,3,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.09,0,290,5246.1
+2023-03-01,2023,3,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.09,0,132,2387.88
+2023-03-01,2023,3,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.09,0,190,3437.1
+2023-03-01,2023,3,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.09,1,220,3979.8
+2023-03-01,2023,3,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.09,1,104,1881.36
+2023-03-01,2023,3,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.09,0,176,3183.84
+2023-03-01,2023,3,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.09,0,199,3599.91
+2023-03-01,2023,3,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.09,0,54,976.86
+2023-03-01,2023,3,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.09,0,120,2170.8
+2023-03-01,2023,3,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.09,0,160,2894.4
+2023-03-01,2023,3,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.09,0,59,1067.31
+2023-03-01,2023,3,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.09,0,92,1664.28
+2023-04-01,2023,4,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.19,1,324,8161.56
+2023-04-01,2023,4,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.19,1,172,4332.68
+2023-04-01,2023,4,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.19,0,159,4005.21
+2023-04-01,2023,4,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.19,0,192,4836.48
+2023-04-01,2023,4,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.19,0,96,2418.24
+2023-04-01,2023,4,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.19,1,196,4937.24
+2023-04-01,2023,4,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.19,0,177,4458.63
+2023-04-01,2023,4,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.19,0,73,1838.87
+2023-04-01,2023,4,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.19,0,104,2619.76
+2023-04-01,2023,4,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.19,0,127,3199.13
+2023-04-01,2023,4,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.19,0,47,1183.93
+2023-04-01,2023,4,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.19,0,109,2745.71
+2023-04-01,2023,4,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.3,0,204,8221.2
+2023-04-01,2023,4,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.3,0,84,3385.2
+2023-04-01,2023,4,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.3,0,125,5037.5
+2023-04-01,2023,4,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.3,0,142,5722.6
+2023-04-01,2023,4,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.3,0,56,2256.8
+2023-04-01,2023,4,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.3,0,96,3868.8
+2023-04-01,2023,4,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.3,0,131,5279.3
+2023-04-01,2023,4,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.3,0,45,1813.5
+2023-04-01,2023,4,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.3,0,80,3224.0
+2023-04-01,2023,4,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.3,0,84,3385.2
+2023-04-01,2023,4,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.3,0,34,1370.2
+2023-04-01,2023,4,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.3,0,61,2458.3
+2023-04-01,2023,4,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,85.63,0,87,7449.81
+2023-04-01,2023,4,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,85.63,0,32,2740.16
+2023-04-01,2023,4,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,85.63,0,52,4452.76
+2023-04-01,2023,4,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,85.63,0,60,5137.8
+2023-04-01,2023,4,Válvula de control,C05 Talleres Unidos,Minorista,Centro,85.63,0,23,1969.49
+2023-04-01,2023,4,Válvula de control,C06 Logística Capital,Distribuidor,Centro,85.63,1,53,4538.39
+2023-04-01,2023,4,Válvula de control,C07 Minera del Sur,Mayorista,Sur,85.63,0,49,4195.87
+2023-04-01,2023,4,Válvula de control,C08 Ferretería Austral,Minorista,Sur,85.63,0,16,1370.08
+2023-04-01,2023,4,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,85.63,0,36,3082.68
+2023-04-01,2023,4,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,85.63,0,40,3425.2
+2023-04-01,2023,4,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,85.63,0,19,1626.97
+2023-04-01,2023,4,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,85.63,0,24,2055.12
+2023-04-01,2023,4,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.13,0,243,4405.59
+2023-04-01,2023,4,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.13,0,114,2066.82
+2023-04-01,2023,4,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.13,0,174,3154.62
+2023-04-01,2023,4,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.13,0,206,3734.78
+2023-04-01,2023,4,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.13,0,87,1577.31
+2023-04-01,2023,4,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.13,0,155,2810.15
+2023-04-01,2023,4,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.13,1,208,3771.04
+2023-04-01,2023,4,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.13,0,59,1069.67
+2023-04-01,2023,4,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.13,0,116,2103.08
+2023-04-01,2023,4,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.13,0,118,2139.34
+2023-04-01,2023,4,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.13,0,53,960.89
+2023-04-01,2023,4,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.13,1,136,2465.68
+2023-05-01,2023,5,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.25,0,230,5807.5
+2023-05-01,2023,5,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.25,0,146,3686.5
+2023-05-01,2023,5,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.25,0,193,4873.25
+2023-05-01,2023,5,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.25,0,211,5327.75
+2023-05-01,2023,5,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.25,1,127,3206.75
+2023-05-01,2023,5,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.25,0,162,4090.5
+2023-05-01,2023,5,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.25,0,164,4141.0
+2023-05-01,2023,5,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.25,0,59,1489.75
+2023-05-01,2023,5,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.25,0,116,2929.0
+2023-05-01,2023,5,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.25,0,151,3812.75
+2023-05-01,2023,5,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.25,1,83,2095.75
+2023-05-01,2023,5,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.25,0,106,2676.5
+2023-05-01,2023,5,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.4,0,177,7150.8
+2023-05-01,2023,5,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.4,0,96,3878.4
+2023-05-01,2023,5,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.4,0,126,5090.4
+2023-05-01,2023,5,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.4,0,148,5979.2
+2023-05-01,2023,5,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.4,0,57,2302.8
+2023-05-01,2023,5,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.4,0,83,3353.2
+2023-05-01,2023,5,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.4,0,99,3999.6
+2023-05-01,2023,5,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.4,0,42,1696.8
+2023-05-01,2023,5,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.4,0,79,3191.6
+2023-05-01,2023,5,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.4,0,101,4080.4
+2023-05-01,2023,5,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.4,0,40,1616.0
+2023-05-01,2023,5,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.4,0,66,2666.4
+2023-05-01,2023,5,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,85.84,0,80,6867.2
+2023-05-01,2023,5,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,85.84,0,30,2575.2
+2023-05-01,2023,5,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,85.84,0,55,4721.2
+2023-05-01,2023,5,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,85.84,0,59,5064.56
+2023-05-01,2023,5,Válvula de control,C05 Talleres Unidos,Minorista,Centro,85.84,0,24,2060.16
+2023-05-01,2023,5,Válvula de control,C06 Logística Capital,Distribuidor,Centro,85.84,0,40,3433.6
+2023-05-01,2023,5,Válvula de control,C07 Minera del Sur,Mayorista,Sur,85.84,0,60,5150.4
+2023-05-01,2023,5,Válvula de control,C08 Ferretería Austral,Minorista,Sur,85.84,0,18,1545.12
+2023-05-01,2023,5,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,85.84,0,30,2575.2
+2023-05-01,2023,5,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,85.84,0,31,2661.04
+2023-05-01,2023,5,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,85.84,0,15,1287.6
+2023-05-01,2023,5,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,85.84,0,30,2575.2
+2023-05-01,2023,5,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.18,0,221,4017.78
+2023-05-01,2023,5,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.18,0,102,1854.36
+2023-05-01,2023,5,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.18,0,168,3054.24
+2023-05-01,2023,5,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.18,0,203,3690.54
+2023-05-01,2023,5,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.18,0,83,1508.94
+2023-05-01,2023,5,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.18,0,128,2327.04
+2023-05-01,2023,5,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.18,0,184,3345.12
+2023-05-01,2023,5,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.18,0,58,1054.44
+2023-05-01,2023,5,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.18,0,79,1436.22
+2023-05-01,2023,5,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.18,0,131,2381.58
+2023-05-01,2023,5,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.18,0,54,981.72
+2023-05-01,2023,5,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.18,0,69,1254.42
+2023-06-01,2023,6,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.31,0,329,8326.99
+2023-06-01,2023,6,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.31,0,135,3416.85
+2023-06-01,2023,6,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.31,0,206,5213.86
+2023-06-01,2023,6,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.31,0,236,5973.16
+2023-06-01,2023,6,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.31,0,94,2379.14
+2023-06-01,2023,6,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.31,0,162,4100.22
+2023-06-01,2023,6,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.31,0,197,4986.07
+2023-06-01,2023,6,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.31,0,66,1670.46
+2023-06-01,2023,6,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.31,0,106,2682.86
+2023-06-01,2023,6,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.31,0,149,3771.19
+2023-06-01,2023,6,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.31,0,79,1999.49
+2023-06-01,2023,6,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.31,0,106,2682.86
+2023-06-01,2023,6,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.5,0,163,6601.5
+2023-06-01,2023,6,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.5,1,91,3685.5
+2023-06-01,2023,6,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.5,0,104,4212.0
+2023-06-01,2023,6,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.5,0,127,5143.5
+2023-06-01,2023,6,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.5,0,55,2227.5
+2023-06-01,2023,6,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.5,0,93,3766.5
+2023-06-01,2023,6,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.5,0,128,5184.0
+2023-06-01,2023,6,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.5,0,37,1498.5
+2023-06-01,2023,6,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.5,0,67,2713.5
+2023-06-01,2023,6,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.5,0,74,2997.0
+2023-06-01,2023,6,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.5,0,36,1458.0
+2023-06-01,2023,6,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.5,0,50,2025.0
+2023-06-01,2023,6,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,86.05,1,114,9809.7
+2023-06-01,2023,6,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,86.05,0,33,2839.65
+2023-06-01,2023,6,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,86.05,0,52,4474.6
+2023-06-01,2023,6,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,86.05,0,62,5335.1
+2023-06-01,2023,6,Válvula de control,C05 Talleres Unidos,Minorista,Centro,86.05,0,24,2065.2
+2023-06-01,2023,6,Válvula de control,C06 Logística Capital,Distribuidor,Centro,86.05,0,40,3442.0
+2023-06-01,2023,6,Válvula de control,C07 Minera del Sur,Mayorista,Sur,86.05,1,62,5335.1
+2023-06-01,2023,6,Válvula de control,C08 Ferretería Austral,Minorista,Sur,86.05,0,17,1462.85
+2023-06-01,2023,6,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,86.05,0,34,2925.7
+2023-06-01,2023,6,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,86.05,0,43,3700.15
+2023-06-01,2023,6,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,86.05,0,17,1462.85
+2023-06-01,2023,6,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,86.05,0,31,2667.55
+2023-06-01,2023,6,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.22,0,224,4081.28
+2023-06-01,2023,6,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.22,0,119,2168.18
+2023-06-01,2023,6,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.22,0,183,3334.26
+2023-06-01,2023,6,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.22,0,148,2696.56
+2023-06-01,2023,6,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.22,0,73,1330.06
+2023-06-01,2023,6,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.22,0,124,2259.28
+2023-06-01,2023,6,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.22,0,148,2696.56
+2023-06-01,2023,6,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.22,0,49,892.78
+2023-06-01,2023,6,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.22,0,86,1566.92
+2023-06-01,2023,6,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.22,0,105,1913.1
+2023-06-01,2023,6,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.22,1,48,874.56
+2023-06-01,2023,6,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.22,0,91,1658.02
+2023-07-01,2023,7,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.37,0,305,7737.85
+2023-07-01,2023,7,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.37,0,128,3247.36
+2023-07-01,2023,7,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.37,0,187,4744.19
+2023-07-01,2023,7,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.37,0,203,5150.11
+2023-07-01,2023,7,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.37,0,111,2816.07
+2023-07-01,2023,7,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.37,0,178,4515.86
+2023-07-01,2023,7,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.37,0,184,4668.08
+2023-07-01,2023,7,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.37,0,59,1496.83
+2023-07-01,2023,7,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.37,0,112,2841.44
+2023-07-01,2023,7,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.37,0,135,3424.95
+2023-07-01,2023,7,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.37,0,57,1446.09
+2023-07-01,2023,7,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.37,0,110,2790.7
+2023-07-01,2023,7,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.6,0,167,6780.2
+2023-07-01,2023,7,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.6,0,71,2882.6
+2023-07-01,2023,7,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.6,1,137,5562.2
+2023-07-01,2023,7,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.6,0,133,5399.8
+2023-07-01,2023,7,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.6,0,49,1989.4
+2023-07-01,2023,7,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.6,0,109,4425.4
+2023-07-01,2023,7,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.6,0,114,4628.4
+2023-07-01,2023,7,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.6,0,38,1542.8
+2023-07-01,2023,7,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.6,1,88,3572.8
+2023-07-01,2023,7,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.6,0,93,3775.8
+2023-07-01,2023,7,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.6,0,35,1421.0
+2023-07-01,2023,7,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.6,0,65,2639.0
+2023-07-01,2023,7,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,86.27,0,96,8281.92
+2023-07-01,2023,7,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,86.27,0,44,3795.88
+2023-07-01,2023,7,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,86.27,0,61,5262.47
+2023-07-01,2023,7,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,86.27,0,73,6297.71
+2023-07-01,2023,7,Válvula de control,C05 Talleres Unidos,Minorista,Centro,86.27,0,27,2329.29
+2023-07-01,2023,7,Válvula de control,C06 Logística Capital,Distribuidor,Centro,86.27,0,37,3191.99
+2023-07-01,2023,7,Válvula de control,C07 Minera del Sur,Mayorista,Sur,86.27,0,51,4399.77
+2023-07-01,2023,7,Válvula de control,C08 Ferretería Austral,Minorista,Sur,86.27,0,20,1725.4
+2023-07-01,2023,7,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,86.27,0,40,3450.8
+2023-07-01,2023,7,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,86.27,0,44,3795.88
+2023-07-01,2023,7,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,86.27,0,20,1725.4
+2023-07-01,2023,7,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,86.27,0,35,3019.45
+2023-07-01,2023,7,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.27,0,255,4658.85
+2023-07-01,2023,7,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.27,0,119,2174.13
+2023-07-01,2023,7,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.27,0,159,2904.93
+2023-07-01,2023,7,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.27,0,184,3361.68
+2023-07-01,2023,7,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.27,0,87,1589.49
+2023-07-01,2023,7,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.27,0,132,2411.64
+2023-07-01,2023,7,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.27,0,182,3325.14
+2023-07-01,2023,7,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.27,0,51,931.77
+2023-07-01,2023,7,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.27,0,106,1936.62
+2023-07-01,2023,7,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.27,0,126,2302.02
+2023-07-01,2023,7,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.27,0,44,803.88
+2023-07-01,2023,7,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.27,0,91,1662.57
+2023-08-01,2023,8,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.43,0,279,7094.97
+2023-08-01,2023,8,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.43,0,130,3305.9
+2023-08-01,2023,8,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.43,0,192,4882.56
+2023-08-01,2023,8,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.43,0,253,6433.79
+2023-08-01,2023,8,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.43,1,126,3204.18
+2023-08-01,2023,8,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.43,0,151,3839.93
+2023-08-01,2023,8,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.43,0,187,4755.41
+2023-08-01,2023,8,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.43,0,54,1373.22
+2023-08-01,2023,8,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.43,0,111,2822.73
+2023-08-01,2023,8,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.43,0,131,3331.33
+2023-08-01,2023,8,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.43,0,75,1907.25
+2023-08-01,2023,8,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.43,0,105,2670.15
+2023-08-01,2023,8,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.7,1,226,9198.2
+2023-08-01,2023,8,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.7,1,84,3418.8
+2023-08-01,2023,8,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.7,0,122,4965.4
+2023-08-01,2023,8,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.7,0,91,3703.7
+2023-08-01,2023,8,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.7,0,58,2360.6
+2023-08-01,2023,8,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.7,0,78,3174.6
+2023-08-01,2023,8,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.7,0,96,3907.2
+2023-08-01,2023,8,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.7,0,36,1465.2
+2023-08-01,2023,8,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.7,0,70,2849.0
+2023-08-01,2023,8,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.7,0,76,3093.2
+2023-08-01,2023,8,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.7,0,32,1302.4
+2023-08-01,2023,8,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.7,0,63,2564.1
+2023-08-01,2023,8,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,86.48,0,91,7869.68
+2023-08-01,2023,8,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,86.48,0,43,3718.64
+2023-08-01,2023,8,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,86.48,0,64,5534.72
+2023-08-01,2023,8,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,86.48,0,73,6313.04
+2023-08-01,2023,8,Válvula de control,C05 Talleres Unidos,Minorista,Centro,86.48,0,31,2680.88
+2023-08-01,2023,8,Válvula de control,C06 Logística Capital,Distribuidor,Centro,86.48,0,52,4496.96
+2023-08-01,2023,8,Válvula de control,C07 Minera del Sur,Mayorista,Sur,86.48,1,104,8993.92
+2023-08-01,2023,8,Válvula de control,C08 Ferretería Austral,Minorista,Sur,86.48,1,24,2075.52
+2023-08-01,2023,8,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,86.48,0,45,3891.6
+2023-08-01,2023,8,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,86.48,0,35,3026.8
+2023-08-01,2023,8,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,86.48,0,19,1643.12
+2023-08-01,2023,8,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,86.48,0,37,3199.76
+2023-08-01,2023,8,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.31,0,261,4778.91
+2023-08-01,2023,8,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.31,0,122,2233.82
+2023-08-01,2023,8,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.31,0,176,3222.56
+2023-08-01,2023,8,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.31,0,192,3515.52
+2023-08-01,2023,8,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.31,0,82,1501.42
+2023-08-01,2023,8,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.31,0,139,2545.09
+2023-08-01,2023,8,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.31,0,178,3259.18
+2023-08-01,2023,8,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.31,0,58,1061.98
+2023-08-01,2023,8,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.31,0,102,1867.62
+2023-08-01,2023,8,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.31,0,123,2252.13
+2023-08-01,2023,8,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.31,0,59,1080.29
+2023-08-01,2023,8,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.31,0,99,1812.69
+2023-09-01,2023,9,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.5,0,229,5839.5
+2023-09-01,2023,9,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.5,0,97,2473.5
+2023-09-01,2023,9,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.5,1,176,4488.0
+2023-09-01,2023,9,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.5,0,211,5380.5
+2023-09-01,2023,9,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.5,0,67,1708.5
+2023-09-01,2023,9,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.5,0,117,2983.5
+2023-09-01,2023,9,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.5,0,175,4462.5
+2023-09-01,2023,9,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.5,0,47,1198.5
+2023-09-01,2023,9,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.5,0,81,2065.5
+2023-09-01,2023,9,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.5,0,110,2805.0
+2023-09-01,2023,9,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.5,0,59,1504.5
+2023-09-01,2023,9,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.5,0,89,2269.5
+2023-09-01,2023,9,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.8,0,197,8037.6
+2023-09-01,2023,9,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.8,0,75,3060.0
+2023-09-01,2023,9,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.8,0,97,3957.6
+2023-09-01,2023,9,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.8,0,119,4855.2
+2023-09-01,2023,9,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.8,1,53,2162.4
+2023-09-01,2023,9,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.8,0,89,3631.2
+2023-09-01,2023,9,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.8,0,102,4161.6
+2023-09-01,2023,9,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.8,1,47,1917.6
+2023-09-01,2023,9,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.8,0,75,3060.0
+2023-09-01,2023,9,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.8,0,89,3631.2
+2023-09-01,2023,9,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.8,0,35,1428.0
+2023-09-01,2023,9,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.8,0,64,2611.2
+2023-09-01,2023,9,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,86.69,0,102,8842.38
+2023-09-01,2023,9,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,86.69,0,47,4074.43
+2023-09-01,2023,9,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,86.69,0,61,5288.09
+2023-09-01,2023,9,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,86.69,0,71,6154.99
+2023-09-01,2023,9,Válvula de control,C05 Talleres Unidos,Minorista,Centro,86.69,0,35,3034.15
+2023-09-01,2023,9,Válvula de control,C06 Logística Capital,Distribuidor,Centro,86.69,0,45,3901.05
+2023-09-01,2023,9,Válvula de control,C07 Minera del Sur,Mayorista,Sur,86.69,0,71,6154.99
+2023-09-01,2023,9,Válvula de control,C08 Ferretería Austral,Minorista,Sur,86.69,0,24,2080.56
+2023-09-01,2023,9,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,86.69,1,56,4854.64
+2023-09-01,2023,9,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,86.69,1,53,4594.57
+2023-09-01,2023,9,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,86.69,0,19,1647.11
+2023-09-01,2023,9,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,86.69,0,42,3640.98
+2023-09-01,2023,9,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.36,0,301,5526.36
+2023-09-01,2023,9,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.36,0,125,2295.0
+2023-09-01,2023,9,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.36,0,172,3157.92
+2023-09-01,2023,9,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.36,0,207,3800.52
+2023-09-01,2023,9,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.36,0,82,1505.52
+2023-09-01,2023,9,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.36,0,168,3084.48
+2023-09-01,2023,9,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.36,0,170,3121.2
+2023-09-01,2023,9,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.36,0,64,1175.04
+2023-09-01,2023,9,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.36,0,127,2331.72
+2023-09-01,2023,9,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.36,0,149,2735.64
+2023-09-01,2023,9,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.36,0,62,1138.32
+2023-09-01,2023,9,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.36,0,115,2111.4
+2023-10-01,2023,10,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.56,0,234,5981.04
+2023-10-01,2023,10,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.56,1,120,3067.2
+2023-10-01,2023,10,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.56,0,156,3987.36
+2023-10-01,2023,10,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.56,0,155,3961.8
+2023-10-01,2023,10,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.56,0,75,1917.0
+2023-10-01,2023,10,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.56,0,112,2862.72
+2023-10-01,2023,10,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.56,0,124,3169.44
+2023-10-01,2023,10,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.56,0,50,1278.0
+2023-10-01,2023,10,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.56,1,97,2479.32
+2023-10-01,2023,10,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.56,0,116,2964.96
+2023-10-01,2023,10,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.56,1,62,1584.72
+2023-10-01,2023,10,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.56,0,64,1635.84
+2023-10-01,2023,10,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,40.9,0,179,7321.1
+2023-10-01,2023,10,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,40.9,0,74,3026.6
+2023-10-01,2023,10,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,40.9,0,121,4948.9
+2023-10-01,2023,10,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,40.9,0,121,4948.9
+2023-10-01,2023,10,Rodamiento,C05 Talleres Unidos,Minorista,Centro,40.9,0,58,2372.2
+2023-10-01,2023,10,Rodamiento,C06 Logística Capital,Distribuidor,Centro,40.9,0,80,3272.0
+2023-10-01,2023,10,Rodamiento,C07 Minera del Sur,Mayorista,Sur,40.9,0,120,4908.0
+2023-10-01,2023,10,Rodamiento,C08 Ferretería Austral,Minorista,Sur,40.9,0,38,1554.2
+2023-10-01,2023,10,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,40.9,0,55,2249.5
+2023-10-01,2023,10,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,40.9,0,64,2617.6
+2023-10-01,2023,10,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,40.9,0,35,1431.5
+2023-10-01,2023,10,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,40.9,0,55,2249.5
+2023-10-01,2023,10,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,86.91,0,87,7561.17
+2023-10-01,2023,10,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,86.91,0,42,3650.22
+2023-10-01,2023,10,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,86.91,0,73,6344.43
+2023-10-01,2023,10,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,86.91,0,72,6257.52
+2023-10-01,2023,10,Válvula de control,C05 Talleres Unidos,Minorista,Centro,86.91,0,42,3650.22
+2023-10-01,2023,10,Válvula de control,C06 Logística Capital,Distribuidor,Centro,86.91,0,53,4606.23
+2023-10-01,2023,10,Válvula de control,C07 Minera del Sur,Mayorista,Sur,86.91,0,80,6952.8
+2023-10-01,2023,10,Válvula de control,C08 Ferretería Austral,Minorista,Sur,86.91,0,28,2433.48
+2023-10-01,2023,10,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,86.91,0,41,3563.31
+2023-10-01,2023,10,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,86.91,0,48,4171.68
+2023-10-01,2023,10,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,86.91,0,22,1912.02
+2023-10-01,2023,10,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,86.91,0,39,3389.49
+2023-10-01,2023,10,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.4,0,314,5777.6
+2023-10-01,2023,10,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.4,0,126,2318.4
+2023-10-01,2023,10,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.4,0,232,4268.8
+2023-10-01,2023,10,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.4,0,229,4213.6
+2023-10-01,2023,10,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.4,0,126,2318.4
+2023-10-01,2023,10,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.4,0,186,3422.4
+2023-10-01,2023,10,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.4,1,261,4802.4
+2023-10-01,2023,10,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.4,0,76,1398.4
+2023-10-01,2023,10,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.4,0,137,2520.8
+2023-10-01,2023,10,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.4,0,171,3146.4
+2023-10-01,2023,10,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.4,1,74,1361.6
+2023-10-01,2023,10,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.4,0,104,1913.6
+2023-11-01,2023,11,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.62,0,179,4585.98
+2023-11-01,2023,11,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.62,0,85,2177.7
+2023-11-01,2023,11,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.62,0,88,2254.56
+2023-11-01,2023,11,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.62,0,130,3330.6
+2023-11-01,2023,11,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.62,0,69,1767.78
+2023-11-01,2023,11,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.62,0,90,2305.8
+2023-11-01,2023,11,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.62,0,133,3407.46
+2023-11-01,2023,11,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.62,0,45,1152.9
+2023-11-01,2023,11,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.62,0,81,2075.22
+2023-11-01,2023,11,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.62,0,99,2536.38
+2023-11-01,2023,11,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.62,0,47,1204.14
+2023-11-01,2023,11,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.62,0,82,2100.84
+2023-11-01,2023,11,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.0,0,166,6806.0
+2023-11-01,2023,11,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.0,0,69,2829.0
+2023-11-01,2023,11,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.0,0,123,5043.0
+2023-11-01,2023,11,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.0,0,131,5371.0
+2023-11-01,2023,11,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.0,1,73,2993.0
+2023-11-01,2023,11,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.0,0,76,3116.0
+2023-11-01,2023,11,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.0,0,123,5043.0
+2023-11-01,2023,11,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.0,0,33,1353.0
+2023-11-01,2023,11,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.0,0,70,2870.0
+2023-11-01,2023,11,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.0,0,78,3198.0
+2023-11-01,2023,11,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.0,0,42,1722.0
+2023-11-01,2023,11,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.0,0,54,2214.0
+2023-11-01,2023,11,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,87.12,0,109,9496.08
+2023-11-01,2023,11,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,87.12,1,61,5314.32
+2023-11-01,2023,11,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,87.12,0,71,6185.52
+2023-11-01,2023,11,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,87.12,0,80,6969.6
+2023-11-01,2023,11,Válvula de control,C05 Talleres Unidos,Minorista,Centro,87.12,0,32,2787.84
+2023-11-01,2023,11,Válvula de control,C06 Logística Capital,Distribuidor,Centro,87.12,0,57,4965.84
+2023-11-01,2023,11,Válvula de control,C07 Minera del Sur,Mayorista,Sur,87.12,0,74,6446.88
+2023-11-01,2023,11,Válvula de control,C08 Ferretería Austral,Minorista,Sur,87.12,1,28,2439.36
+2023-11-01,2023,11,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,87.12,1,53,4617.36
+2023-11-01,2023,11,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,87.12,0,41,3571.92
+2023-11-01,2023,11,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,87.12,0,19,1655.28
+2023-11-01,2023,11,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,87.12,0,38,3310.56
+2023-11-01,2023,11,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.45,0,306,5645.7
+2023-11-01,2023,11,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.45,0,150,2767.5
+2023-11-01,2023,11,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.45,0,267,4926.15
+2023-11-01,2023,11,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.45,0,288,5313.6
+2023-11-01,2023,11,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.45,0,107,1974.15
+2023-11-01,2023,11,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.45,0,161,2970.45
+2023-11-01,2023,11,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.45,0,203,3745.35
+2023-11-01,2023,11,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.45,0,90,1660.5
+2023-11-01,2023,11,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.45,0,152,2804.4
+2023-11-01,2023,11,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.45,0,162,2988.9
+2023-11-01,2023,11,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.45,0,77,1420.65
+2023-11-01,2023,11,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.45,0,124,2287.8
+2023-12-01,2023,12,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.69,0,198,5086.62
+2023-12-01,2023,12,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.69,0,82,2106.58
+2023-12-01,2023,12,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.69,0,139,3570.91
+2023-12-01,2023,12,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.69,0,147,3776.43
+2023-12-01,2023,12,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.69,0,53,1361.57
+2023-12-01,2023,12,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.69,1,127,3262.63
+2023-12-01,2023,12,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.69,0,141,3622.29
+2023-12-01,2023,12,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.69,0,44,1130.36
+2023-12-01,2023,12,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.69,0,78,2003.82
+2023-12-01,2023,12,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.69,0,83,2132.27
+2023-12-01,2023,12,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.69,0,38,976.22
+2023-12-01,2023,12,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.69,0,69,1772.61
+2023-12-01,2023,12,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.1,0,171,7028.1
+2023-12-01,2023,12,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.1,0,88,3616.8
+2023-12-01,2023,12,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.1,1,154,6329.4
+2023-12-01,2023,12,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.1,0,124,5096.4
+2023-12-01,2023,12,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.1,0,63,2589.3
+2023-12-01,2023,12,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.1,0,85,3493.5
+2023-12-01,2023,12,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.1,0,121,4973.1
+2023-12-01,2023,12,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.1,0,38,1561.8
+2023-12-01,2023,12,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.1,0,90,3699.0
+2023-12-01,2023,12,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.1,0,86,3534.6
+2023-12-01,2023,12,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.1,0,36,1479.6
+2023-12-01,2023,12,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.1,0,67,2753.7
+2023-12-01,2023,12,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,87.33,1,127,11090.91
+2023-12-01,2023,12,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,87.33,0,42,3667.86
+2023-12-01,2023,12,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,87.33,0,78,6811.74
+2023-12-01,2023,12,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,87.33,0,80,6986.4
+2023-12-01,2023,12,Válvula de control,C05 Talleres Unidos,Minorista,Centro,87.33,0,33,2881.89
+2023-12-01,2023,12,Válvula de control,C06 Logística Capital,Distribuidor,Centro,87.33,0,49,4279.17
+2023-12-01,2023,12,Válvula de control,C07 Minera del Sur,Mayorista,Sur,87.33,1,101,8820.33
+2023-12-01,2023,12,Válvula de control,C08 Ferretería Austral,Minorista,Sur,87.33,0,24,2095.92
+2023-12-01,2023,12,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,87.33,0,39,3405.87
+2023-12-01,2023,12,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,87.33,0,54,4715.82
+2023-12-01,2023,12,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,87.33,1,28,2445.24
+2023-12-01,2023,12,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,87.33,0,41,3580.53
+2023-12-01,2023,12,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.49,0,373,6896.77
+2023-12-01,2023,12,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.49,0,191,3531.59
+2023-12-01,2023,12,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.49,1,276,5103.24
+2023-12-01,2023,12,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.49,0,247,4567.03
+2023-12-01,2023,12,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.49,0,145,2681.05
+2023-12-01,2023,12,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.49,0,185,3420.65
+2023-12-01,2023,12,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.49,0,211,3901.39
+2023-12-01,2023,12,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.49,0,84,1553.16
+2023-12-01,2023,12,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.49,1,198,3661.02
+2023-12-01,2023,12,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.49,0,168,3106.32
+2023-12-01,2023,12,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.49,0,64,1183.36
+2023-12-01,2023,12,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.49,0,119,2200.31
+2024-01-01,2024,1,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.75,0,168,4326.0
+2024-01-01,2024,1,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.75,0,104,2678.0
+2024-01-01,2024,1,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.75,0,114,2935.5
+2024-01-01,2024,1,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.75,0,136,3502.0
+2024-01-01,2024,1,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.75,0,65,1673.75
+2024-01-01,2024,1,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.75,0,90,2317.5
+2024-01-01,2024,1,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.75,0,137,3527.75
+2024-01-01,2024,1,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.75,0,41,1055.75
+2024-01-01,2024,1,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.75,0,82,2111.5
+2024-01-01,2024,1,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.75,0,91,2343.25
+2024-01-01,2024,1,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.75,0,43,1107.25
+2024-01-01,2024,1,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.75,0,80,2060.0
+2024-01-01,2024,1,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.2,0,170,7004.0
+2024-01-01,2024,1,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.2,0,87,3584.4
+2024-01-01,2024,1,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.2,0,143,5891.6
+2024-01-01,2024,1,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.2,0,123,5067.6
+2024-01-01,2024,1,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.2,0,51,2101.2
+2024-01-01,2024,1,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.2,1,122,5026.4
+2024-01-01,2024,1,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.2,0,101,4161.2
+2024-01-01,2024,1,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.2,0,44,1812.8
+2024-01-01,2024,1,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.2,0,82,3378.4
+2024-01-01,2024,1,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.2,0,78,3213.6
+2024-01-01,2024,1,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.2,0,46,1895.2
+2024-01-01,2024,1,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.2,0,79,3254.8
+2024-01-01,2024,1,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,87.55,0,100,8755.0
+2024-01-01,2024,1,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,87.55,0,48,4202.4
+2024-01-01,2024,1,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,87.55,0,64,5603.2
+2024-01-01,2024,1,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,87.55,1,83,7266.65
+2024-01-01,2024,1,Válvula de control,C05 Talleres Unidos,Minorista,Centro,87.55,0,30,2626.5
+2024-01-01,2024,1,Válvula de control,C06 Logística Capital,Distribuidor,Centro,87.55,0,45,3939.75
+2024-01-01,2024,1,Válvula de control,C07 Minera del Sur,Mayorista,Sur,87.55,0,60,5253.0
+2024-01-01,2024,1,Válvula de control,C08 Ferretería Austral,Minorista,Sur,87.55,0,21,1838.55
+2024-01-01,2024,1,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,87.55,0,39,3414.45
+2024-01-01,2024,1,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,87.55,0,48,4202.4
+2024-01-01,2024,1,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,87.55,0,17,1488.35
+2024-01-01,2024,1,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,87.55,0,46,4027.3
+2024-01-01,2024,1,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.54,0,318,5895.72
+2024-01-01,2024,1,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.54,0,164,3040.56
+2024-01-01,2024,1,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.54,0,248,4597.92
+2024-01-01,2024,1,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.54,0,240,4449.6
+2024-01-01,2024,1,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.54,0,116,2150.64
+2024-01-01,2024,1,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.54,0,166,3077.64
+2024-01-01,2024,1,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.54,0,233,4319.82
+2024-01-01,2024,1,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.54,0,93,1724.22
+2024-01-01,2024,1,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.54,0,134,2484.36
+2024-01-01,2024,1,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.54,0,168,3114.72
+2024-01-01,2024,1,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.54,0,69,1279.26
+2024-01-01,2024,1,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.54,0,137,2539.98
+2024-02-01,2024,2,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.81,0,206,5316.86
+2024-02-01,2024,2,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.81,0,101,2606.81
+2024-02-01,2024,2,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.81,0,169,4361.89
+2024-02-01,2024,2,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.81,0,159,4103.79
+2024-02-01,2024,2,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.81,0,74,1909.94
+2024-02-01,2024,2,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.81,0,121,3123.01
+2024-02-01,2024,2,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.81,0,164,4232.84
+2024-02-01,2024,2,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.81,0,52,1342.12
+2024-02-01,2024,2,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.81,0,101,2606.81
+2024-02-01,2024,2,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.81,0,103,2658.43
+2024-02-01,2024,2,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.81,0,43,1109.83
+2024-02-01,2024,2,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.81,0,68,1755.08
+2024-02-01,2024,2,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.3,0,169,6979.7
+2024-02-01,2024,2,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.3,0,85,3510.5
+2024-02-01,2024,2,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.3,0,140,5782.0
+2024-02-01,2024,2,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.3,0,136,5616.8
+2024-02-01,2024,2,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.3,0,48,1982.4
+2024-02-01,2024,2,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.3,0,97,4006.1
+2024-02-01,2024,2,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.3,0,127,5245.1
+2024-02-01,2024,2,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.3,0,44,1817.2
+2024-02-01,2024,2,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.3,0,91,3758.3
+2024-02-01,2024,2,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.3,0,78,3221.4
+2024-02-01,2024,2,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.3,0,47,1941.1
+2024-02-01,2024,2,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.3,0,77,3180.1
+2024-02-01,2024,2,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,87.77,0,88,7723.76
+2024-02-01,2024,2,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,87.77,0,41,3598.57
+2024-02-01,2024,2,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,87.77,1,76,6670.52
+2024-02-01,2024,2,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,87.77,0,70,6143.9
+2024-02-01,2024,2,Válvula de control,C05 Talleres Unidos,Minorista,Centro,87.77,0,26,2282.02
+2024-02-01,2024,2,Válvula de control,C06 Logística Capital,Distribuidor,Centro,87.77,0,42,3686.34
+2024-02-01,2024,2,Válvula de control,C07 Minera del Sur,Mayorista,Sur,87.77,0,49,4300.73
+2024-02-01,2024,2,Válvula de control,C08 Ferretería Austral,Minorista,Sur,87.77,0,21,1843.17
+2024-02-01,2024,2,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,87.77,0,34,2984.18
+2024-02-01,2024,2,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,87.77,0,36,3159.72
+2024-02-01,2024,2,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,87.77,0,18,1579.86
+2024-02-01,2024,2,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,87.77,0,35,3071.95
+2024-02-01,2024,2,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.59,0,336,6246.24
+2024-02-01,2024,2,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.59,0,131,2435.29
+2024-02-01,2024,2,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.59,0,259,4814.81
+2024-02-01,2024,2,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.59,0,239,4443.01
+2024-02-01,2024,2,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.59,1,135,2509.65
+2024-02-01,2024,2,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.59,0,175,3253.25
+2024-02-01,2024,2,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.59,0,213,3959.67
+2024-02-01,2024,2,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.59,0,76,1412.84
+2024-02-01,2024,2,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.59,0,147,2732.73
+2024-02-01,2024,2,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.59,0,152,2825.68
+2024-02-01,2024,2,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.59,0,78,1450.02
+2024-02-01,2024,2,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.59,0,112,2082.08
+2024-03-01,2024,3,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.88,0,304,7867.52
+2024-03-01,2024,3,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.88,1,129,3338.52
+2024-03-01,2024,3,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.88,0,216,5590.08
+2024-03-01,2024,3,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.88,0,165,4270.2
+2024-03-01,2024,3,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.88,0,78,2018.64
+2024-03-01,2024,3,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.88,1,175,4529.0
+2024-03-01,2024,3,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.88,1,240,6211.2
+2024-03-01,2024,3,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.88,0,66,1708.08
+2024-03-01,2024,3,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.88,0,118,3053.84
+2024-03-01,2024,3,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.88,0,101,2613.88
+2024-03-01,2024,3,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.88,0,59,1526.92
+2024-03-01,2024,3,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.88,0,87,2251.56
+2024-03-01,2024,3,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.4,0,223,9232.2
+2024-03-01,2024,3,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.4,0,99,4098.6
+2024-03-01,2024,3,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.4,0,144,5961.6
+2024-03-01,2024,3,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.4,0,140,5796.0
+2024-03-01,2024,3,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.4,0,57,2359.8
+2024-03-01,2024,3,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.4,0,98,4057.2
+2024-03-01,2024,3,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.4,1,156,6458.4
+2024-03-01,2024,3,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.4,0,45,1863.0
+2024-03-01,2024,3,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.4,0,89,3684.6
+2024-03-01,2024,3,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.4,0,97,4015.8
+2024-03-01,2024,3,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.4,0,39,1614.6
+2024-03-01,2024,3,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.4,0,65,2691.0
+2024-03-01,2024,3,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,87.98,0,92,8094.16
+2024-03-01,2024,3,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,87.98,0,45,3959.1
+2024-03-01,2024,3,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,87.98,0,60,5278.8
+2024-03-01,2024,3,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,87.98,0,58,5102.84
+2024-03-01,2024,3,Válvula de control,C05 Talleres Unidos,Minorista,Centro,87.98,0,24,2111.52
+2024-03-01,2024,3,Válvula de control,C06 Logística Capital,Distribuidor,Centro,87.98,0,48,4223.04
+2024-03-01,2024,3,Válvula de control,C07 Minera del Sur,Mayorista,Sur,87.98,1,83,7302.34
+2024-03-01,2024,3,Válvula de control,C08 Ferretería Austral,Minorista,Sur,87.98,0,18,1583.64
+2024-03-01,2024,3,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,87.98,0,32,2815.36
+2024-03-01,2024,3,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,87.98,0,35,3079.3
+2024-03-01,2024,3,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,87.98,0,19,1671.62
+2024-03-01,2024,3,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,87.98,0,34,2991.32
+2024-03-01,2024,3,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.63,0,279,5197.77
+2024-03-01,2024,3,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.63,0,135,2515.05
+2024-03-01,2024,3,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.63,0,218,4061.34
+2024-03-01,2024,3,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.63,0,233,4340.79
+2024-03-01,2024,3,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.63,1,105,1956.15
+2024-03-01,2024,3,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.63,0,143,2664.09
+2024-03-01,2024,3,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.63,1,252,4694.76
+2024-03-01,2024,3,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.63,0,71,1322.73
+2024-03-01,2024,3,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.63,0,146,2719.98
+2024-03-01,2024,3,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.63,0,127,2366.01
+2024-03-01,2024,3,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.63,0,68,1266.84
+2024-03-01,2024,3,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.63,0,110,2049.3
+2024-04-01,2024,4,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,25.94,0,279,7237.26
+2024-04-01,2024,4,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,25.94,0,143,3709.42
+2024-04-01,2024,4,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,25.94,0,212,5499.28
+2024-04-01,2024,4,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,25.94,0,226,5862.44
+2024-04-01,2024,4,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,25.94,1,101,2619.94
+2024-04-01,2024,4,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,25.94,0,147,3813.18
+2024-04-01,2024,4,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,25.94,0,195,5058.3
+2024-04-01,2024,4,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,25.94,0,66,1712.04
+2024-04-01,2024,4,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,25.94,0,145,3761.3
+2024-04-01,2024,4,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,25.94,0,134,3475.96
+2024-04-01,2024,4,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,25.94,0,48,1245.12
+2024-04-01,2024,4,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,25.94,0,107,2775.58
+2024-04-01,2024,4,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.51,0,212,8800.12
+2024-04-01,2024,4,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.51,0,89,3694.39
+2024-04-01,2024,4,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.51,0,99,4109.49
+2024-04-01,2024,4,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.51,0,152,6309.52
+2024-04-01,2024,4,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.51,0,67,2781.17
+2024-04-01,2024,4,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.51,0,92,3818.92
+2024-04-01,2024,4,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.51,0,125,5188.75
+2024-04-01,2024,4,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.51,0,44,1826.44
+2024-04-01,2024,4,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.51,1,95,3943.45
+2024-04-01,2024,4,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.51,0,92,3818.92
+2024-04-01,2024,4,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.51,0,46,1909.46
+2024-04-01,2024,4,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.51,1,86,3569.86
+2024-04-01,2024,4,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,88.2,0,72,6350.4
+2024-04-01,2024,4,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,88.2,0,40,3528.0
+2024-04-01,2024,4,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,88.2,0,52,4586.4
+2024-04-01,2024,4,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,88.2,0,60,5292.0
+2024-04-01,2024,4,Válvula de control,C05 Talleres Unidos,Minorista,Centro,88.2,0,25,2205.0
+2024-04-01,2024,4,Válvula de control,C06 Logística Capital,Distribuidor,Centro,88.2,0,39,3439.8
+2024-04-01,2024,4,Válvula de control,C07 Minera del Sur,Mayorista,Sur,88.2,0,61,5380.2
+2024-04-01,2024,4,Válvula de control,C08 Ferretería Austral,Minorista,Sur,88.2,1,25,2205.0
+2024-04-01,2024,4,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,88.2,0,32,2822.4
+2024-04-01,2024,4,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,88.2,0,40,3528.0
+2024-04-01,2024,4,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,88.2,0,19,1675.8
+2024-04-01,2024,4,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,88.2,0,27,2381.4
+2024-04-01,2024,4,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.68,1,306,5716.08
+2024-04-01,2024,4,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.68,0,119,2222.92
+2024-04-01,2024,4,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.68,0,165,3082.2
+2024-04-01,2024,4,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.68,0,198,3698.64
+2024-04-01,2024,4,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.68,0,65,1214.2
+2024-04-01,2024,4,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.68,0,135,2521.8
+2024-04-01,2024,4,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.68,0,186,3474.48
+2024-04-01,2024,4,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.68,0,62,1158.16
+2024-04-01,2024,4,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.68,0,121,2260.28
+2024-04-01,2024,4,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.68,0,115,2148.2
+2024-04-01,2024,4,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.68,0,59,1102.12
+2024-04-01,2024,4,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.68,0,108,2017.44
+2024-05-01,2024,5,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.0,0,327,8502.0
+2024-05-01,2024,5,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.0,0,150,3900.0
+2024-05-01,2024,5,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.0,1,241,6266.0
+2024-05-01,2024,5,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.0,0,234,6084.0
+2024-05-01,2024,5,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.0,0,97,2522.0
+2024-05-01,2024,5,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.0,1,209,5434.0
+2024-05-01,2024,5,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.0,0,194,5044.0
+2024-05-01,2024,5,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.0,0,80,2080.0
+2024-05-01,2024,5,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.0,0,135,3510.0
+2024-05-01,2024,5,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.0,0,168,4368.0
+2024-05-01,2024,5,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.0,0,72,1872.0
+2024-05-01,2024,5,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.0,0,108,2808.0
+2024-05-01,2024,5,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.61,0,208,8654.88
+2024-05-01,2024,5,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.61,0,97,4036.17
+2024-05-01,2024,5,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.61,0,139,5783.79
+2024-05-01,2024,5,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.61,0,130,5409.3
+2024-05-01,2024,5,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.61,0,58,2413.38
+2024-05-01,2024,5,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.61,0,103,4285.83
+2024-05-01,2024,5,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.61,0,149,6199.89
+2024-05-01,2024,5,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.61,0,51,2122.11
+2024-05-01,2024,5,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.61,0,71,2954.31
+2024-05-01,2024,5,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.61,0,96,3994.56
+2024-05-01,2024,5,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.61,0,40,1664.4
+2024-05-01,2024,5,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.61,0,62,2579.82
+2024-05-01,2024,5,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,88.42,0,93,8223.06
+2024-05-01,2024,5,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,88.42,0,39,3448.38
+2024-05-01,2024,5,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,88.42,0,61,5393.62
+2024-05-01,2024,5,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,88.42,0,63,5570.46
+2024-05-01,2024,5,Válvula de control,C05 Talleres Unidos,Minorista,Centro,88.42,0,28,2475.76
+2024-05-01,2024,5,Válvula de control,C06 Logística Capital,Distribuidor,Centro,88.42,0,47,4155.74
+2024-05-01,2024,5,Válvula de control,C07 Minera del Sur,Mayorista,Sur,88.42,0,63,5570.46
+2024-05-01,2024,5,Válvula de control,C08 Ferretería Austral,Minorista,Sur,88.42,0,18,1591.56
+2024-05-01,2024,5,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,88.42,0,38,3359.96
+2024-05-01,2024,5,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,88.42,0,44,3890.48
+2024-05-01,2024,5,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,88.42,0,20,1768.4
+2024-05-01,2024,5,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,88.42,0,32,2829.44
+2024-05-01,2024,5,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.72,1,311,5821.92
+2024-05-01,2024,5,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.72,0,109,2040.48
+2024-05-01,2024,5,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.72,0,173,3238.56
+2024-05-01,2024,5,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.72,0,156,2920.32
+2024-05-01,2024,5,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.72,0,96,1797.12
+2024-05-01,2024,5,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.72,0,145,2714.4
+2024-05-01,2024,5,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.72,0,197,3687.84
+2024-05-01,2024,5,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.72,0,59,1104.48
+2024-05-01,2024,5,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.72,0,94,1759.68
+2024-05-01,2024,5,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.72,0,125,2340.0
+2024-05-01,2024,5,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.72,1,74,1385.28
+2024-05-01,2024,5,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.72,0,83,1553.76
+2024-06-01,2024,6,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.07,1,465,12122.55
+2024-06-01,2024,6,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.07,0,138,3597.66
+2024-06-01,2024,6,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.07,0,243,6335.01
+2024-06-01,2024,6,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.07,0,275,7169.25
+2024-06-01,2024,6,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.07,0,106,2763.42
+2024-06-01,2024,6,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.07,1,246,6413.22
+2024-06-01,2024,6,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.07,0,187,4875.09
+2024-06-01,2024,6,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.07,0,65,1694.55
+2024-06-01,2024,6,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.07,0,121,3154.47
+2024-06-01,2024,6,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.07,0,124,3232.68
+2024-06-01,2024,6,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.07,0,60,1564.2
+2024-06-01,2024,6,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.07,0,138,3597.66
+2024-06-01,2024,6,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.71,0,210,8759.1
+2024-06-01,2024,6,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.71,1,97,4045.87
+2024-06-01,2024,6,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.71,0,158,6590.18
+2024-06-01,2024,6,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.71,1,166,6923.86
+2024-06-01,2024,6,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.71,0,70,2919.7
+2024-06-01,2024,6,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.71,0,116,4838.36
+2024-06-01,2024,6,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.71,0,117,4880.07
+2024-06-01,2024,6,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.71,0,45,1876.95
+2024-06-01,2024,6,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.71,0,83,3461.93
+2024-06-01,2024,6,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.71,0,83,3461.93
+2024-06-01,2024,6,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.71,0,30,1251.3
+2024-06-01,2024,6,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.71,0,74,3086.54
+2024-06-01,2024,6,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,88.63,0,86,7622.18
+2024-06-01,2024,6,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,88.63,0,40,3545.2
+2024-06-01,2024,6,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,88.63,0,66,5849.58
+2024-06-01,2024,6,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,88.63,0,72,6381.36
+2024-06-01,2024,6,Válvula de control,C05 Talleres Unidos,Minorista,Centro,88.63,0,28,2481.64
+2024-06-01,2024,6,Válvula de control,C06 Logística Capital,Distribuidor,Centro,88.63,0,50,4431.5
+2024-06-01,2024,6,Válvula de control,C07 Minera del Sur,Mayorista,Sur,88.63,0,70,6204.1
+2024-06-01,2024,6,Válvula de control,C08 Ferretería Austral,Minorista,Sur,88.63,0,17,1506.71
+2024-06-01,2024,6,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,88.63,0,32,2836.16
+2024-06-01,2024,6,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,88.63,1,49,4342.87
+2024-06-01,2024,6,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,88.63,1,24,2127.12
+2024-06-01,2024,6,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,88.63,0,37,3279.31
+2024-06-01,2024,6,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.77,0,269,5049.13
+2024-06-01,2024,6,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.77,0,104,1952.08
+2024-06-01,2024,6,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.77,0,164,3078.28
+2024-06-01,2024,6,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.77,0,202,3791.54
+2024-06-01,2024,6,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.77,0,78,1464.06
+2024-06-01,2024,6,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.77,0,122,2289.94
+2024-06-01,2024,6,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.77,0,176,3303.52
+2024-06-01,2024,6,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.77,0,58,1088.66
+2024-06-01,2024,6,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.77,0,101,1895.77
+2024-06-01,2024,6,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.77,0,109,2045.93
+2024-06-01,2024,6,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.77,0,48,900.96
+2024-06-01,2024,6,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.77,0,81,1520.37
+2024-07-01,2024,7,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.13,0,296,7734.48
+2024-07-01,2024,7,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.13,0,128,3344.64
+2024-07-01,2024,7,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.13,0,211,5513.43
+2024-07-01,2024,7,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.13,1,294,7682.22
+2024-07-01,2024,7,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.13,0,102,2665.26
+2024-07-01,2024,7,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.13,0,149,3893.37
+2024-07-01,2024,7,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.13,0,220,5748.6
+2024-07-01,2024,7,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.13,0,72,1881.36
+2024-07-01,2024,7,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.13,0,127,3318.51
+2024-07-01,2024,7,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.13,0,144,3762.72
+2024-07-01,2024,7,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.13,0,63,1646.19
+2024-07-01,2024,7,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.13,0,125,3266.25
+2024-07-01,2024,7,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.81,0,181,7567.61
+2024-07-01,2024,7,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.81,0,81,3386.61
+2024-07-01,2024,7,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.81,0,118,4933.58
+2024-07-01,2024,7,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.81,0,124,5184.44
+2024-07-01,2024,7,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.81,0,62,2592.22
+2024-07-01,2024,7,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.81,0,118,4933.58
+2024-07-01,2024,7,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.81,0,115,4808.15
+2024-07-01,2024,7,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.81,0,40,1672.4
+2024-07-01,2024,7,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.81,0,71,2968.51
+2024-07-01,2024,7,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.81,0,78,3261.18
+2024-07-01,2024,7,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.81,0,37,1546.97
+2024-07-01,2024,7,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.81,0,78,3261.18
+2024-07-01,2024,7,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,88.85,0,95,8440.75
+2024-07-01,2024,7,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,88.85,0,45,3998.25
+2024-07-01,2024,7,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,88.85,0,66,5864.1
+2024-07-01,2024,7,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,88.85,0,74,6574.9
+2024-07-01,2024,7,Válvula de control,C05 Talleres Unidos,Minorista,Centro,88.85,0,30,2665.5
+2024-07-01,2024,7,Válvula de control,C06 Logística Capital,Distribuidor,Centro,88.85,0,51,4531.35
+2024-07-01,2024,7,Válvula de control,C07 Minera del Sur,Mayorista,Sur,88.85,0,58,5153.3
+2024-07-01,2024,7,Válvula de control,C08 Ferretería Austral,Minorista,Sur,88.85,0,23,2043.55
+2024-07-01,2024,7,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,88.85,0,39,3465.15
+2024-07-01,2024,7,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,88.85,0,51,4531.35
+2024-07-01,2024,7,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,88.85,0,22,1954.7
+2024-07-01,2024,7,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,88.85,0,35,3109.75
+2024-07-01,2024,7,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.82,0,228,4290.96
+2024-07-01,2024,7,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.82,0,110,2070.2
+2024-07-01,2024,7,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.82,0,196,3688.72
+2024-07-01,2024,7,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.82,0,174,3274.68
+2024-07-01,2024,7,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.82,0,64,1204.48
+2024-07-01,2024,7,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.82,0,134,2521.88
+2024-07-01,2024,7,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.82,0,188,3538.16
+2024-07-01,2024,7,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.82,0,59,1110.38
+2024-07-01,2024,7,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.82,0,88,1656.16
+2024-07-01,2024,7,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.82,0,121,2277.22
+2024-07-01,2024,7,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.82,0,60,1129.2
+2024-07-01,2024,7,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.82,0,88,1656.16
+2024-08-01,2024,8,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.2,0,285,7467.0
+2024-08-01,2024,8,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.2,0,125,3275.0
+2024-08-01,2024,8,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.2,0,203,5318.6
+2024-08-01,2024,8,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.2,0,194,5082.8
+2024-08-01,2024,8,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.2,1,120,3144.0
+2024-08-01,2024,8,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.2,0,161,4218.2
+2024-08-01,2024,8,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.2,0,205,5371.0
+2024-08-01,2024,8,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.2,0,66,1729.2
+2024-08-01,2024,8,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.2,0,106,2777.2
+2024-08-01,2024,8,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.2,1,174,4558.8
+2024-08-01,2024,8,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.2,0,78,2043.6
+2024-08-01,2024,8,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.2,0,112,2934.4
+2024-08-01,2024,8,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,41.92,1,199,8342.08
+2024-08-01,2024,8,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,41.92,0,80,3353.6
+2024-08-01,2024,8,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,41.92,0,141,5910.72
+2024-08-01,2024,8,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,41.92,0,131,5491.52
+2024-08-01,2024,8,Rodamiento,C05 Talleres Unidos,Minorista,Centro,41.92,0,53,2221.76
+2024-08-01,2024,8,Rodamiento,C06 Logística Capital,Distribuidor,Centro,41.92,0,102,4275.84
+2024-08-01,2024,8,Rodamiento,C07 Minera del Sur,Mayorista,Sur,41.92,0,109,4569.28
+2024-08-01,2024,8,Rodamiento,C08 Ferretería Austral,Minorista,Sur,41.92,0,42,1760.64
+2024-08-01,2024,8,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,41.92,0,65,2724.8
+2024-08-01,2024,8,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,41.92,0,79,3311.68
+2024-08-01,2024,8,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,41.92,0,41,1718.72
+2024-08-01,2024,8,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,41.92,0,71,2976.32
+2024-08-01,2024,8,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,89.07,0,110,9797.7
+2024-08-01,2024,8,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,89.07,0,55,4898.85
+2024-08-01,2024,8,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,89.07,0,79,7036.53
+2024-08-01,2024,8,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,89.07,0,75,6680.25
+2024-08-01,2024,8,Válvula de control,C05 Talleres Unidos,Minorista,Centro,89.07,0,33,2939.31
+2024-08-01,2024,8,Válvula de control,C06 Logística Capital,Distribuidor,Centro,89.07,0,61,5433.27
+2024-08-01,2024,8,Válvula de control,C07 Minera del Sur,Mayorista,Sur,89.07,0,84,7481.88
+2024-08-01,2024,8,Válvula de control,C08 Ferretería Austral,Minorista,Sur,89.07,0,27,2404.89
+2024-08-01,2024,8,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,89.07,0,49,4364.43
+2024-08-01,2024,8,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,89.07,0,46,4097.22
+2024-08-01,2024,8,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,89.07,0,26,2315.82
+2024-08-01,2024,8,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,89.07,0,43,3830.01
+2024-08-01,2024,8,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.86,0,283,5337.38
+2024-08-01,2024,8,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.86,0,129,2432.94
+2024-08-01,2024,8,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.86,0,157,2961.02
+2024-08-01,2024,8,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.86,0,155,2923.3
+2024-08-01,2024,8,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.86,0,88,1659.68
+2024-08-01,2024,8,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.86,0,143,2696.98
+2024-08-01,2024,8,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.86,0,179,3375.94
+2024-08-01,2024,8,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.86,0,64,1207.04
+2024-08-01,2024,8,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.86,0,112,2112.32
+2024-08-01,2024,8,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.86,0,135,2546.1
+2024-08-01,2024,8,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.86,1,82,1546.52
+2024-08-01,2024,8,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.86,0,95,1791.7
+2024-09-01,2024,9,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.26,0,279,7326.54
+2024-09-01,2024,9,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.26,0,111,2914.86
+2024-09-01,2024,9,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.26,1,188,4936.88
+2024-09-01,2024,9,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.26,0,191,5015.66
+2024-09-01,2024,9,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.26,0,93,2442.18
+2024-09-01,2024,9,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.26,1,161,4227.86
+2024-09-01,2024,9,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.26,0,187,4910.62
+2024-09-01,2024,9,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.26,0,65,1706.9
+2024-09-01,2024,9,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.26,0,116,3046.16
+2024-09-01,2024,9,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.26,1,150,3939.0
+2024-09-01,2024,9,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.26,0,55,1444.3
+2024-09-01,2024,9,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.26,0,99,2599.74
+2024-09-01,2024,9,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.02,0,176,7395.52
+2024-09-01,2024,9,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.02,0,80,3361.6
+2024-09-01,2024,9,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.02,0,126,5294.52
+2024-09-01,2024,9,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.02,0,159,6681.18
+2024-09-01,2024,9,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.02,0,61,2563.22
+2024-09-01,2024,9,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.02,0,86,3613.72
+2024-09-01,2024,9,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.02,0,138,5798.76
+2024-09-01,2024,9,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.02,0,34,1428.68
+2024-09-01,2024,9,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.02,0,61,2563.22
+2024-09-01,2024,9,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.02,0,88,3697.76
+2024-09-01,2024,9,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.02,0,37,1554.74
+2024-09-01,2024,9,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.02,0,47,1974.94
+2024-09-01,2024,9,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,89.29,0,135,12054.15
+2024-09-01,2024,9,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,89.29,0,55,4910.95
+2024-09-01,2024,9,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,89.29,0,80,7143.2
+2024-09-01,2024,9,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,89.29,0,84,7500.36
+2024-09-01,2024,9,Válvula de control,C05 Talleres Unidos,Minorista,Centro,89.29,0,36,3214.44
+2024-09-01,2024,9,Válvula de control,C06 Logística Capital,Distribuidor,Centro,89.29,0,49,4375.21
+2024-09-01,2024,9,Válvula de control,C07 Minera del Sur,Mayorista,Sur,89.29,0,71,6339.59
+2024-09-01,2024,9,Válvula de control,C08 Ferretería Austral,Minorista,Sur,89.29,0,24,2142.96
+2024-09-01,2024,9,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,89.29,1,65,5803.85
+2024-09-01,2024,9,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,89.29,0,53,4732.37
+2024-09-01,2024,9,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,89.29,0,27,2410.83
+2024-09-01,2024,9,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,89.29,0,42,3750.18
+2024-09-01,2024,9,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.91,1,350,6618.5
+2024-09-01,2024,9,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.91,0,138,2609.58
+2024-09-01,2024,9,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.91,0,211,3990.01
+2024-09-01,2024,9,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.91,0,248,4689.68
+2024-09-01,2024,9,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.91,0,92,1739.72
+2024-09-01,2024,9,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.91,0,150,2836.5
+2024-09-01,2024,9,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.91,0,221,4179.11
+2024-09-01,2024,9,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.91,0,67,1266.97
+2024-09-01,2024,9,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.91,0,134,2533.94
+2024-09-01,2024,9,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.91,0,138,2609.58
+2024-09-01,2024,9,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.91,0,68,1285.88
+2024-09-01,2024,9,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.91,0,105,1985.55
+2024-10-01,2024,10,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.33,0,218,5739.94
+2024-10-01,2024,10,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.33,0,81,2132.73
+2024-10-01,2024,10,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.33,0,189,4976.37
+2024-10-01,2024,10,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.33,1,206,5423.98
+2024-10-01,2024,10,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.33,1,98,2580.34
+2024-10-01,2024,10,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.33,0,122,3212.26
+2024-10-01,2024,10,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.33,0,177,4660.41
+2024-10-01,2024,10,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.33,1,54,1421.82
+2024-10-01,2024,10,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.33,0,97,2554.01
+2024-10-01,2024,10,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.33,0,121,3185.93
+2024-10-01,2024,10,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.33,0,52,1369.16
+2024-10-01,2024,10,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.33,0,80,2106.4
+2024-10-01,2024,10,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.12,1,181,7623.72
+2024-10-01,2024,10,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.12,0,72,3032.64
+2024-10-01,2024,10,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.12,0,97,4085.64
+2024-10-01,2024,10,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.12,0,137,5770.44
+2024-10-01,2024,10,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.12,0,57,2400.84
+2024-10-01,2024,10,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.12,0,99,4169.88
+2024-10-01,2024,10,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.12,0,105,4422.6
+2024-10-01,2024,10,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.12,0,34,1432.08
+2024-10-01,2024,10,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.12,0,73,3074.76
+2024-10-01,2024,10,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.12,0,87,3664.44
+2024-10-01,2024,10,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.12,0,31,1305.72
+2024-10-01,2024,10,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.12,0,59,2485.08
+2024-10-01,2024,10,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,89.51,0,140,12531.4
+2024-10-01,2024,10,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,89.51,0,57,5102.07
+2024-10-01,2024,10,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,89.51,0,81,7250.31
+2024-10-01,2024,10,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,89.51,0,78,6981.78
+2024-10-01,2024,10,Válvula de control,C05 Talleres Unidos,Minorista,Centro,89.51,0,34,3043.34
+2024-10-01,2024,10,Válvula de control,C06 Logística Capital,Distribuidor,Centro,89.51,1,75,6713.25
+2024-10-01,2024,10,Válvula de control,C07 Minera del Sur,Mayorista,Sur,89.51,0,69,6176.19
+2024-10-01,2024,10,Válvula de control,C08 Ferretería Austral,Minorista,Sur,89.51,1,38,3401.38
+2024-10-01,2024,10,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,89.51,0,54,4833.54
+2024-10-01,2024,10,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,89.51,0,51,4565.01
+2024-10-01,2024,10,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,89.51,0,32,2864.32
+2024-10-01,2024,10,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,89.51,0,42,3759.42
+2024-10-01,2024,10,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,18.96,0,339,6427.44
+2024-10-01,2024,10,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,18.96,0,141,2673.36
+2024-10-01,2024,10,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,18.96,0,208,3943.68
+2024-10-01,2024,10,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,18.96,1,298,5650.08
+2024-10-01,2024,10,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,18.96,0,87,1649.52
+2024-10-01,2024,10,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,18.96,0,170,3223.2
+2024-10-01,2024,10,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,18.96,0,223,4228.08
+2024-10-01,2024,10,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,18.96,0,77,1459.92
+2024-10-01,2024,10,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,18.96,0,114,2161.44
+2024-10-01,2024,10,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,18.96,0,137,2597.52
+2024-10-01,2024,10,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,18.96,0,76,1440.96
+2024-10-01,2024,10,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,18.96,0,109,2066.64
+2024-11-01,2024,11,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.39,0,210,5541.9
+2024-11-01,2024,11,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.39,0,106,2797.34
+2024-11-01,2024,11,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.39,0,129,3404.31
+2024-11-01,2024,11,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.39,0,143,3773.77
+2024-11-01,2024,11,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.39,0,74,1952.86
+2024-11-01,2024,11,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.39,0,92,2427.88
+2024-11-01,2024,11,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.39,0,140,3694.6
+2024-11-01,2024,11,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.39,0,59,1557.01
+2024-11-01,2024,11,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.39,0,88,2322.32
+2024-11-01,2024,11,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.39,0,111,2929.29
+2024-11-01,2024,11,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.39,0,45,1187.55
+2024-11-01,2024,11,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.39,1,85,2243.15
+2024-11-01,2024,11,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.23,0,155,6545.65
+2024-11-01,2024,11,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.23,0,82,3462.86
+2024-11-01,2024,11,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.23,0,129,5447.67
+2024-11-01,2024,11,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.23,0,157,6630.11
+2024-11-01,2024,11,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.23,0,55,2322.65
+2024-11-01,2024,11,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.23,0,98,4138.54
+2024-11-01,2024,11,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.23,0,120,5067.6
+2024-11-01,2024,11,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.23,0,36,1520.28
+2024-11-01,2024,11,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.23,0,75,3167.25
+2024-11-01,2024,11,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.23,0,96,4054.08
+2024-11-01,2024,11,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.23,0,43,1815.89
+2024-11-01,2024,11,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.23,0,62,2618.26
+2024-11-01,2024,11,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,89.73,0,153,13728.69
+2024-11-01,2024,11,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,89.73,0,51,4576.23
+2024-11-01,2024,11,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,89.73,0,92,8255.16
+2024-11-01,2024,11,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,89.73,0,85,7627.05
+2024-11-01,2024,11,Válvula de control,C05 Talleres Unidos,Minorista,Centro,89.73,0,42,3768.66
+2024-11-01,2024,11,Válvula de control,C06 Logística Capital,Distribuidor,Centro,89.73,0,61,5473.53
+2024-11-01,2024,11,Válvula de control,C07 Minera del Sur,Mayorista,Sur,89.73,1,98,8793.54
+2024-11-01,2024,11,Válvula de control,C08 Ferretería Austral,Minorista,Sur,89.73,0,29,2602.17
+2024-11-01,2024,11,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,89.73,0,57,5114.61
+2024-11-01,2024,11,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,89.73,0,56,5024.88
+2024-11-01,2024,11,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,89.73,0,25,2243.25
+2024-11-01,2024,11,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,89.73,0,41,3678.93
+2024-11-01,2024,11,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.0,0,331,6289.0
+2024-11-01,2024,11,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.0,0,148,2812.0
+2024-11-01,2024,11,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.0,1,295,5605.0
+2024-11-01,2024,11,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.0,1,359,6821.0
+2024-11-01,2024,11,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.0,0,119,2261.0
+2024-11-01,2024,11,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.0,0,203,3857.0
+2024-11-01,2024,11,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.0,0,258,4902.0
+2024-11-01,2024,11,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.0,0,90,1710.0
+2024-11-01,2024,11,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.0,0,134,2546.0
+2024-11-01,2024,11,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.0,0,176,3344.0
+2024-11-01,2024,11,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.0,1,83,1577.0
+2024-11-01,2024,11,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.0,1,138,2622.0
+2024-12-01,2024,12,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.46,0,210,5556.6
+2024-12-01,2024,12,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.46,0,90,2381.4
+2024-12-01,2024,12,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.46,1,179,4736.34
+2024-12-01,2024,12,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.46,0,160,4233.6
+2024-12-01,2024,12,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.46,1,93,2460.78
+2024-12-01,2024,12,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.46,0,108,2857.68
+2024-12-01,2024,12,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.46,1,169,4471.74
+2024-12-01,2024,12,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.46,0,43,1137.78
+2024-12-01,2024,12,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.46,0,90,2381.4
+2024-12-01,2024,12,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.46,0,92,2434.32
+2024-12-01,2024,12,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.46,0,44,1164.24
+2024-12-01,2024,12,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.46,0,80,2116.8
+2024-12-01,2024,12,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.33,0,195,8254.35
+2024-12-01,2024,12,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.33,0,85,3598.05
+2024-12-01,2024,12,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.33,0,121,5121.93
+2024-12-01,2024,12,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.33,0,146,6180.18
+2024-12-01,2024,12,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.33,0,74,3132.42
+2024-12-01,2024,12,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.33,0,88,3725.04
+2024-12-01,2024,12,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.33,1,143,6053.19
+2024-12-01,2024,12,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.33,0,46,1947.18
+2024-12-01,2024,12,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.33,0,79,3344.07
+2024-12-01,2024,12,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.33,0,104,4402.32
+2024-12-01,2024,12,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.33,0,39,1650.87
+2024-12-01,2024,12,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.33,0,77,3259.41
+2024-12-01,2024,12,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,89.95,0,119,10704.05
+2024-12-01,2024,12,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,89.95,1,57,5127.15
+2024-12-01,2024,12,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,89.95,0,74,6656.3
+2024-12-01,2024,12,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,89.95,0,84,7555.8
+2024-12-01,2024,12,Válvula de control,C05 Talleres Unidos,Minorista,Centro,89.95,0,33,2968.35
+2024-12-01,2024,12,Válvula de control,C06 Logística Capital,Distribuidor,Centro,89.95,0,67,6026.65
+2024-12-01,2024,12,Válvula de control,C07 Minera del Sur,Mayorista,Sur,89.95,0,82,7375.9
+2024-12-01,2024,12,Válvula de control,C08 Ferretería Austral,Minorista,Sur,89.95,0,24,2158.8
+2024-12-01,2024,12,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,89.95,0,45,4047.75
+2024-12-01,2024,12,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,89.95,0,60,5397.0
+2024-12-01,2024,12,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,89.95,0,25,2248.75
+2024-12-01,2024,12,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,89.95,0,50,4497.5
+2024-12-01,2024,12,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.05,0,392,7467.6
+2024-12-01,2024,12,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.05,0,150,2857.5
+2024-12-01,2024,12,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.05,0,229,4362.45
+2024-12-01,2024,12,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.05,0,300,5715.0
+2024-12-01,2024,12,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.05,0,111,2114.55
+2024-12-01,2024,12,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.05,0,197,3752.85
+2024-12-01,2024,12,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.05,0,177,3371.85
+2024-12-01,2024,12,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.05,0,83,1581.15
+2024-12-01,2024,12,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.05,0,128,2438.4
+2024-12-01,2024,12,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.05,1,189,3600.45
+2024-12-01,2024,12,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.05,0,92,1752.6
+2024-12-01,2024,12,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.05,0,131,2495.55
+2025-01-01,2025,1,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.52,0,210,5569.2
+2025-01-01,2025,1,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.52,0,116,3076.32
+2025-01-01,2025,1,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.52,0,165,4375.8
+2025-01-01,2025,1,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.52,0,185,4906.2
+2025-01-01,2025,1,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.52,0,77,2042.04
+2025-01-01,2025,1,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.52,0,123,3261.96
+2025-01-01,2025,1,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.52,0,168,4455.36
+2025-01-01,2025,1,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.52,0,45,1193.4
+2025-01-01,2025,1,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.52,0,79,2095.08
+2025-01-01,2025,1,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.52,1,111,2943.72
+2025-01-01,2025,1,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.52,0,39,1034.28
+2025-01-01,2025,1,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.52,0,81,2148.12
+2025-01-01,2025,1,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.44,1,216,9167.04
+2025-01-01,2025,1,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.44,1,99,4201.56
+2025-01-01,2025,1,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.44,0,137,5814.28
+2025-01-01,2025,1,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.44,0,109,4625.96
+2025-01-01,2025,1,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.44,0,63,2673.72
+2025-01-01,2025,1,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.44,0,106,4498.64
+2025-01-01,2025,1,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.44,0,163,6917.72
+2025-01-01,2025,1,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.44,0,46,1952.24
+2025-01-01,2025,1,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.44,0,82,3480.08
+2025-01-01,2025,1,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.44,0,112,4753.28
+2025-01-01,2025,1,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.44,0,44,1867.36
+2025-01-01,2025,1,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.44,0,76,3225.44
+2025-01-01,2025,1,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,90.18,1,149,13436.82
+2025-01-01,2025,1,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,90.18,0,44,3967.92
+2025-01-01,2025,1,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,90.18,0,82,7394.76
+2025-01-01,2025,1,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,90.18,0,68,6132.24
+2025-01-01,2025,1,Válvula de control,C05 Talleres Unidos,Minorista,Centro,90.18,0,36,3246.48
+2025-01-01,2025,1,Válvula de control,C06 Logística Capital,Distribuidor,Centro,90.18,0,60,5410.8
+2025-01-01,2025,1,Válvula de control,C07 Minera del Sur,Mayorista,Sur,90.18,0,69,6222.42
+2025-01-01,2025,1,Válvula de control,C08 Ferretería Austral,Minorista,Sur,90.18,0,24,2164.32
+2025-01-01,2025,1,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,90.18,0,50,4509.0
+2025-01-01,2025,1,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,90.18,0,51,4599.18
+2025-01-01,2025,1,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,90.18,1,31,2795.58
+2025-01-01,2025,1,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,90.18,1,50,4509.0
+2025-01-01,2025,1,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.1,0,341,6513.1
+2025-01-01,2025,1,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.1,0,150,2865.0
+2025-01-01,2025,1,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.1,0,261,4985.1
+2025-01-01,2025,1,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.1,0,304,5806.4
+2025-01-01,2025,1,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.1,0,99,1890.9
+2025-01-01,2025,1,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.1,0,220,4202.0
+2025-01-01,2025,1,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.1,0,258,4927.8
+2025-01-01,2025,1,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.1,0,79,1508.9
+2025-01-01,2025,1,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.1,0,150,2865.0
+2025-01-01,2025,1,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.1,1,230,4393.0
+2025-01-01,2025,1,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.1,0,71,1356.1
+2025-01-01,2025,1,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.1,0,131,2502.1
+2025-02-01,2025,2,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.59,0,246,6541.14
+2025-02-01,2025,2,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.59,0,90,2393.1
+2025-02-01,2025,2,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.59,1,229,6089.11
+2025-02-01,2025,2,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.59,0,168,4467.12
+2025-02-01,2025,2,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.59,0,73,1941.07
+2025-02-01,2025,2,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.59,0,127,3376.93
+2025-02-01,2025,2,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.59,0,171,4546.89
+2025-02-01,2025,2,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.59,0,56,1489.04
+2025-02-01,2025,2,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.59,0,98,2605.82
+2025-02-01,2025,2,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.59,0,120,3190.8
+2025-02-01,2025,2,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.59,0,50,1329.5
+2025-02-01,2025,2,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.59,0,91,2419.69
+2025-02-01,2025,2,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.54,0,224,9528.96
+2025-02-01,2025,2,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.54,0,87,3700.98
+2025-02-01,2025,2,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.54,0,146,6210.84
+2025-02-01,2025,2,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.54,0,163,6934.02
+2025-02-01,2025,2,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.54,0,66,2807.64
+2025-02-01,2025,2,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.54,0,97,4126.38
+2025-02-01,2025,2,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.54,0,160,6806.4
+2025-02-01,2025,2,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.54,0,52,2212.08
+2025-02-01,2025,2,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.54,0,84,3573.36
+2025-02-01,2025,2,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.54,1,145,6168.3
+2025-02-01,2025,2,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.54,1,62,2637.48
+2025-02-01,2025,2,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.54,0,76,3233.04
+2025-02-01,2025,2,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,90.4,0,94,8497.6
+2025-02-01,2025,2,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,90.4,0,39,3525.6
+2025-02-01,2025,2,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,90.4,0,69,6237.6
+2025-02-01,2025,2,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,90.4,1,84,7593.6
+2025-02-01,2025,2,Válvula de control,C05 Talleres Unidos,Minorista,Centro,90.4,0,29,2621.6
+2025-02-01,2025,2,Válvula de control,C06 Logística Capital,Distribuidor,Centro,90.4,0,54,4881.6
+2025-02-01,2025,2,Válvula de control,C07 Minera del Sur,Mayorista,Sur,90.4,0,58,5243.2
+2025-02-01,2025,2,Válvula de control,C08 Ferretería Austral,Minorista,Sur,90.4,0,19,1717.6
+2025-02-01,2025,2,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,90.4,0,41,3706.4
+2025-02-01,2025,2,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,90.4,0,51,4610.4
+2025-02-01,2025,2,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,90.4,0,23,2079.2
+2025-02-01,2025,2,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,90.4,0,31,2802.4
+2025-02-01,2025,2,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.14,0,319,6105.66
+2025-02-01,2025,2,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.14,0,141,2698.74
+2025-02-01,2025,2,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.14,0,200,3828.0
+2025-02-01,2025,2,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.14,1,314,6009.96
+2025-02-01,2025,2,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.14,1,137,2622.18
+2025-02-01,2025,2,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.14,0,176,3368.64
+2025-02-01,2025,2,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.14,0,193,3694.02
+2025-02-01,2025,2,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.14,0,91,1741.74
+2025-02-01,2025,2,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.14,0,126,2411.64
+2025-02-01,2025,2,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.14,0,179,3426.06
+2025-02-01,2025,2,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.14,0,86,1646.04
+2025-02-01,2025,2,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.14,0,120,2296.8
+2025-03-01,2025,3,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.65,0,295,7861.75
+2025-03-01,2025,3,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.65,0,107,2851.55
+2025-03-01,2025,3,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.65,0,188,5010.2
+2025-03-01,2025,3,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.65,1,270,7195.5
+2025-03-01,2025,3,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.65,1,111,2958.15
+2025-03-01,2025,3,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.65,0,158,4210.7
+2025-03-01,2025,3,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.65,0,179,4770.35
+2025-03-01,2025,3,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.65,0,69,1838.85
+2025-03-01,2025,3,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.65,0,102,2718.3
+2025-03-01,2025,3,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.65,0,140,3731.0
+2025-03-01,2025,3,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.65,0,58,1545.7
+2025-03-01,2025,3,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.65,1,108,2878.2
+2025-03-01,2025,3,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.65,0,231,9852.15
+2025-03-01,2025,3,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.65,1,88,3753.2
+2025-03-01,2025,3,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.65,0,137,5843.05
+2025-03-01,2025,3,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.65,0,141,6013.65
+2025-03-01,2025,3,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.65,0,76,3241.4
+2025-03-01,2025,3,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.65,0,122,5203.3
+2025-03-01,2025,3,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.65,0,128,5459.2
+2025-03-01,2025,3,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.65,0,42,1791.3
+2025-03-01,2025,3,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.65,0,82,3497.3
+2025-03-01,2025,3,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.65,0,91,3881.15
+2025-03-01,2025,3,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.65,0,54,2303.1
+2025-03-01,2025,3,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.65,0,65,2772.25
+2025-03-01,2025,3,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,90.62,1,142,12868.04
+2025-03-01,2025,3,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,90.62,0,44,3987.28
+2025-03-01,2025,3,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,90.62,0,70,6343.4
+2025-03-01,2025,3,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,90.62,1,89,8065.18
+2025-03-01,2025,3,Válvula de control,C05 Talleres Unidos,Minorista,Centro,90.62,0,25,2265.5
+2025-03-01,2025,3,Válvula de control,C06 Logística Capital,Distribuidor,Centro,90.62,0,54,4893.48
+2025-03-01,2025,3,Válvula de control,C07 Minera del Sur,Mayorista,Sur,90.62,0,64,5799.68
+2025-03-01,2025,3,Válvula de control,C08 Ferretería Austral,Minorista,Sur,90.62,0,19,1721.78
+2025-03-01,2025,3,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,90.62,0,42,3806.04
+2025-03-01,2025,3,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,90.62,0,50,4531.0
+2025-03-01,2025,3,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,90.62,0,23,2084.26
+2025-03-01,2025,3,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,90.62,0,38,3443.56
+2025-03-01,2025,3,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.19,0,297,5699.43
+2025-03-01,2025,3,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.19,0,145,2782.55
+2025-03-01,2025,3,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.19,0,238,4567.22
+2025-03-01,2025,3,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.19,0,250,4797.5
+2025-03-01,2025,3,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.19,0,75,1439.25
+2025-03-01,2025,3,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.19,0,162,3108.78
+2025-03-01,2025,3,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.19,0,193,3703.67
+2025-03-01,2025,3,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.19,1,99,1899.81
+2025-03-01,2025,3,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.19,0,124,2379.56
+2025-03-01,2025,3,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.19,0,155,2974.45
+2025-03-01,2025,3,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.19,0,70,1343.3
+2025-03-01,2025,3,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.19,0,129,2475.51
+2025-04-01,2025,4,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.72,1,475,12692.0
+2025-04-01,2025,4,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.72,0,141,3767.52
+2025-04-01,2025,4,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.72,0,226,6038.72
+2025-04-01,2025,4,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.72,0,267,7134.24
+2025-04-01,2025,4,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.72,0,89,2378.08
+2025-04-01,2025,4,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.72,0,150,4008.0
+2025-04-01,2025,4,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.72,0,199,5317.28
+2025-04-01,2025,4,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.72,0,77,2057.44
+2025-04-01,2025,4,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.72,0,129,3446.88
+2025-04-01,2025,4,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.72,0,142,3794.24
+2025-04-01,2025,4,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.72,0,79,2110.88
+2025-04-01,2025,4,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.72,0,99,2645.28
+2025-04-01,2025,4,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.75,0,199,8507.25
+2025-04-01,2025,4,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.75,0,92,3933.0
+2025-04-01,2025,4,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.75,0,174,7438.5
+2025-04-01,2025,4,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.75,0,146,6241.5
+2025-04-01,2025,4,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.75,1,88,3762.0
+2025-04-01,2025,4,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.75,0,110,4702.5
+2025-04-01,2025,4,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.75,0,125,5343.75
+2025-04-01,2025,4,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.75,0,50,2137.5
+2025-04-01,2025,4,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.75,0,83,3548.25
+2025-04-01,2025,4,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.75,0,96,4104.0
+2025-04-01,2025,4,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.75,0,41,1752.75
+2025-04-01,2025,4,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.75,0,79,3377.25
+2025-04-01,2025,4,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,90.85,0,109,9902.65
+2025-04-01,2025,4,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,90.85,0,39,3543.15
+2025-04-01,2025,4,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,90.85,0,58,5269.3
+2025-04-01,2025,4,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,90.85,0,58,5269.3
+2025-04-01,2025,4,Válvula de control,C05 Talleres Unidos,Minorista,Centro,90.85,0,24,2180.4
+2025-04-01,2025,4,Válvula de control,C06 Logística Capital,Distribuidor,Centro,90.85,0,49,4451.65
+2025-04-01,2025,4,Válvula de control,C07 Minera del Sur,Mayorista,Sur,90.85,0,63,5723.55
+2025-04-01,2025,4,Válvula de control,C08 Ferretería Austral,Minorista,Sur,90.85,1,27,2452.95
+2025-04-01,2025,4,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,90.85,1,47,4269.95
+2025-04-01,2025,4,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,90.85,1,57,5178.45
+2025-04-01,2025,4,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,90.85,0,24,2180.4
+2025-04-01,2025,4,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,90.85,0,39,3543.15
+2025-04-01,2025,4,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.24,1,396,7619.04
+2025-04-01,2025,4,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.24,0,136,2616.64
+2025-04-01,2025,4,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.24,0,207,3982.68
+2025-04-01,2025,4,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.24,0,175,3367.0
+2025-04-01,2025,4,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.24,0,87,1673.88
+2025-04-01,2025,4,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.24,0,152,2924.48
+2025-04-01,2025,4,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.24,0,172,3309.28
+2025-04-01,2025,4,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.24,1,92,1770.08
+2025-04-01,2025,4,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.24,0,109,2097.16
+2025-04-01,2025,4,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.24,0,112,2154.88
+2025-04-01,2025,4,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.24,0,60,1154.4
+2025-04-01,2025,4,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.24,0,108,2077.92
+2025-05-01,2025,5,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.79,0,320,8572.8
+2025-05-01,2025,5,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.79,0,151,4045.29
+2025-05-01,2025,5,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.79,0,202,5411.58
+2025-05-01,2025,5,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.79,0,244,6536.76
+2025-05-01,2025,5,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.79,0,110,2946.9
+2025-05-01,2025,5,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.79,0,181,4848.99
+2025-05-01,2025,5,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.79,0,251,6724.29
+2025-05-01,2025,5,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.79,1,87,2330.73
+2025-05-01,2025,5,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.79,0,144,3857.76
+2025-05-01,2025,5,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.79,1,219,5867.01
+2025-05-01,2025,5,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.79,0,71,1902.09
+2025-05-01,2025,5,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.79,0,117,3134.43
+2025-05-01,2025,5,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.86,1,304,13029.44
+2025-05-01,2025,5,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.86,0,88,3771.68
+2025-05-01,2025,5,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.86,0,149,6386.14
+2025-05-01,2025,5,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.86,0,158,6771.88
+2025-05-01,2025,5,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.86,0,56,2400.16
+2025-05-01,2025,5,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.86,0,111,4757.46
+2025-05-01,2025,5,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.86,0,140,6000.4
+2025-05-01,2025,5,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.86,1,67,2871.62
+2025-05-01,2025,5,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.86,0,84,3600.24
+2025-05-01,2025,5,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.86,0,106,4543.16
+2025-05-01,2025,5,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.86,0,49,2100.14
+2025-05-01,2025,5,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.86,0,74,3171.64
+2025-05-01,2025,5,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,91.07,0,119,10837.33
+2025-05-01,2025,5,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,91.07,0,40,3642.8
+2025-05-01,2025,5,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,91.07,0,56,5099.92
+2025-05-01,2025,5,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,91.07,0,57,5190.99
+2025-05-01,2025,5,Válvula de control,C05 Talleres Unidos,Minorista,Centro,91.07,0,29,2641.03
+2025-05-01,2025,5,Válvula de control,C06 Logística Capital,Distribuidor,Centro,91.07,1,52,4735.64
+2025-05-01,2025,5,Válvula de control,C07 Minera del Sur,Mayorista,Sur,91.07,0,61,5555.27
+2025-05-01,2025,5,Válvula de control,C08 Ferretería Austral,Minorista,Sur,91.07,0,22,2003.54
+2025-05-01,2025,5,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,91.07,0,40,3642.8
+2025-05-01,2025,5,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,91.07,0,45,4098.15
+2025-05-01,2025,5,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,91.07,0,20,1821.4
+2025-05-01,2025,5,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,91.07,0,34,3096.38
+2025-05-01,2025,5,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.29,1,344,6635.76
+2025-05-01,2025,5,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.29,0,102,1967.58
+2025-05-01,2025,5,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.29,0,167,3221.43
+2025-05-01,2025,5,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.29,0,197,3800.13
+2025-05-01,2025,5,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.29,0,82,1581.78
+2025-05-01,2025,5,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.29,0,113,2179.77
+2025-05-01,2025,5,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.29,0,191,3684.39
+2025-05-01,2025,5,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.29,0,55,1060.95
+2025-05-01,2025,5,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.29,0,92,1774.68
+2025-05-01,2025,5,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.29,0,107,2064.03
+2025-05-01,2025,5,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.29,0,63,1215.27
+2025-05-01,2025,5,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.29,0,75,1446.75
+2025-06-01,2025,6,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.85,0,378,10149.3
+2025-06-01,2025,6,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.85,0,172,4618.2
+2025-06-01,2025,6,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.85,0,240,6444.0
+2025-06-01,2025,6,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.85,0,306,8216.1
+2025-06-01,2025,6,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.85,0,102,2738.7
+2025-06-01,2025,6,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.85,0,199,5343.15
+2025-06-01,2025,6,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.85,0,243,6524.55
+2025-06-01,2025,6,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.85,0,94,2523.9
+2025-06-01,2025,6,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.85,1,176,4725.6
+2025-06-01,2025,6,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.85,0,179,4806.15
+2025-06-01,2025,6,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.85,0,80,2148.0
+2025-06-01,2025,6,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.85,0,112,3007.2
+2025-06-01,2025,6,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,42.96,0,196,8420.16
+2025-06-01,2025,6,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,42.96,0,82,3522.72
+2025-06-01,2025,6,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,42.96,0,138,5928.48
+2025-06-01,2025,6,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,42.96,0,152,6529.92
+2025-06-01,2025,6,Rodamiento,C05 Talleres Unidos,Minorista,Centro,42.96,0,71,3050.16
+2025-06-01,2025,6,Rodamiento,C06 Logística Capital,Distribuidor,Centro,42.96,0,79,3393.84
+2025-06-01,2025,6,Rodamiento,C07 Minera del Sur,Mayorista,Sur,42.96,0,132,5670.72
+2025-06-01,2025,6,Rodamiento,C08 Ferretería Austral,Minorista,Sur,42.96,0,38,1632.48
+2025-06-01,2025,6,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,42.96,0,84,3608.64
+2025-06-01,2025,6,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,42.96,0,115,4940.4
+2025-06-01,2025,6,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,42.96,0,42,1804.32
+2025-06-01,2025,6,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,42.96,0,67,2878.32
+2025-06-01,2025,6,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,91.29,0,100,9129.0
+2025-06-01,2025,6,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,91.29,0,40,3651.6
+2025-06-01,2025,6,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,91.29,0,53,4838.37
+2025-06-01,2025,6,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,91.29,1,98,8946.42
+2025-06-01,2025,6,Válvula de control,C05 Talleres Unidos,Minorista,Centro,91.29,0,33,3012.57
+2025-06-01,2025,6,Válvula de control,C06 Logística Capital,Distribuidor,Centro,91.29,0,51,4655.79
+2025-06-01,2025,6,Válvula de control,C07 Minera del Sur,Mayorista,Sur,91.29,0,62,5659.98
+2025-06-01,2025,6,Válvula de control,C08 Ferretería Austral,Minorista,Sur,91.29,1,32,2921.28
+2025-06-01,2025,6,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,91.29,0,47,4290.63
+2025-06-01,2025,6,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,91.29,0,50,4564.5
+2025-06-01,2025,6,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,91.29,0,18,1643.22
+2025-06-01,2025,6,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,91.29,0,38,3469.02
+2025-06-01,2025,6,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.33,0,262,5064.46
+2025-06-01,2025,6,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.33,0,108,2087.64
+2025-06-01,2025,6,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.33,0,171,3305.43
+2025-06-01,2025,6,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.33,0,172,3324.76
+2025-06-01,2025,6,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.33,0,77,1488.41
+2025-06-01,2025,6,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.33,0,144,2783.52
+2025-06-01,2025,6,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.33,0,171,3305.43
+2025-06-01,2025,6,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.33,1,66,1275.78
+2025-06-01,2025,6,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.33,0,98,1894.34
+2025-06-01,2025,6,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.33,0,136,2628.88
+2025-06-01,2025,6,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.33,0,49,947.17
+2025-06-01,2025,6,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.33,0,86,1662.38
+2025-07-01,2025,7,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.92,0,349,9395.08
+2025-07-01,2025,7,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.92,0,146,3930.32
+2025-07-01,2025,7,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.92,0,276,7429.92
+2025-07-01,2025,7,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.92,1,356,9583.52
+2025-07-01,2025,7,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.92,0,109,2934.28
+2025-07-01,2025,7,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.92,1,280,7537.6
+2025-07-01,2025,7,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.92,0,243,6541.56
+2025-07-01,2025,7,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.92,1,113,3041.96
+2025-07-01,2025,7,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.92,0,162,4361.04
+2025-07-01,2025,7,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.92,0,176,4737.92
+2025-07-01,2025,7,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.92,0,69,1857.48
+2025-07-01,2025,7,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.92,0,130,3499.6
+2025-07-01,2025,7,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.07,0,176,7580.32
+2025-07-01,2025,7,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.07,0,87,3747.09
+2025-07-01,2025,7,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.07,0,135,5814.45
+2025-07-01,2025,7,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.07,0,141,6072.87
+2025-07-01,2025,7,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.07,0,64,2756.48
+2025-07-01,2025,7,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.07,0,102,4393.14
+2025-07-01,2025,7,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.07,0,125,5383.75
+2025-07-01,2025,7,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.07,0,37,1593.59
+2025-07-01,2025,7,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.07,0,71,3057.97
+2025-07-01,2025,7,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.07,0,81,3488.67
+2025-07-01,2025,7,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.07,0,45,1938.15
+2025-07-01,2025,7,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.07,0,68,2928.76
+2025-07-01,2025,7,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,91.52,0,117,10707.84
+2025-07-01,2025,7,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,91.52,0,48,4392.96
+2025-07-01,2025,7,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,91.52,0,88,8053.76
+2025-07-01,2025,7,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,91.52,0,89,8145.28
+2025-07-01,2025,7,Válvula de control,C05 Talleres Unidos,Minorista,Centro,91.52,0,36,3294.72
+2025-07-01,2025,7,Válvula de control,C06 Logística Capital,Distribuidor,Centro,91.52,0,59,5399.68
+2025-07-01,2025,7,Válvula de control,C07 Minera del Sur,Mayorista,Sur,91.52,0,70,6406.4
+2025-07-01,2025,7,Válvula de control,C08 Ferretería Austral,Minorista,Sur,91.52,0,24,2196.48
+2025-07-01,2025,7,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,91.52,0,39,3569.28
+2025-07-01,2025,7,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,91.52,0,58,5308.16
+2025-07-01,2025,7,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,91.52,0,27,2471.04
+2025-07-01,2025,7,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,91.52,0,45,4118.4
+2025-07-01,2025,7,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.38,1,297,5755.86
+2025-07-01,2025,7,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.38,0,131,2538.78
+2025-07-01,2025,7,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.38,1,218,4224.84
+2025-07-01,2025,7,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.38,0,201,3895.38
+2025-07-01,2025,7,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.38,1,90,1744.2
+2025-07-01,2025,7,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.38,0,153,2965.14
+2025-07-01,2025,7,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.38,0,186,3604.68
+2025-07-01,2025,7,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.38,0,56,1085.28
+2025-07-01,2025,7,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.38,0,100,1938.0
+2025-07-01,2025,7,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.38,0,133,2577.54
+2025-07-01,2025,7,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.38,1,80,1550.4
+2025-07-01,2025,7,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.38,0,88,1705.44
+2025-08-01,2025,8,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,26.98,0,328,8849.44
+2025-08-01,2025,8,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,26.98,0,138,3723.24
+2025-08-01,2025,8,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,26.98,1,320,8633.6
+2025-08-01,2025,8,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,26.98,0,227,6124.46
+2025-08-01,2025,8,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,26.98,0,91,2455.18
+2025-08-01,2025,8,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,26.98,1,231,6232.38
+2025-08-01,2025,8,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,26.98,0,250,6745.0
+2025-08-01,2025,8,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,26.98,1,98,2644.04
+2025-08-01,2025,8,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,26.98,0,146,3939.08
+2025-08-01,2025,8,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,26.98,0,189,5099.22
+2025-08-01,2025,8,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,26.98,0,84,2266.32
+2025-08-01,2025,8,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,26.98,0,142,3831.16
+2025-08-01,2025,8,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.17,0,216,9324.72
+2025-08-01,2025,8,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.17,0,76,3280.92
+2025-08-01,2025,8,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.17,0,135,5827.95
+2025-08-01,2025,8,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.17,0,136,5871.12
+2025-08-01,2025,8,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.17,0,49,2115.33
+2025-08-01,2025,8,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.17,0,97,4187.49
+2025-08-01,2025,8,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.17,0,135,5827.95
+2025-08-01,2025,8,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.17,0,43,1856.31
+2025-08-01,2025,8,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.17,0,73,3151.41
+2025-08-01,2025,8,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.17,0,81,3496.77
+2025-08-01,2025,8,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.17,0,42,1813.14
+2025-08-01,2025,8,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.17,0,66,2849.22
+2025-08-01,2025,8,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,91.74,0,138,12660.12
+2025-08-01,2025,8,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,91.74,0,60,5504.4
+2025-08-01,2025,8,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,91.74,0,89,8164.86
+2025-08-01,2025,8,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,91.74,0,81,7430.94
+2025-08-01,2025,8,Válvula de control,C05 Talleres Unidos,Minorista,Centro,91.74,0,37,3394.38
+2025-08-01,2025,8,Válvula de control,C06 Logística Capital,Distribuidor,Centro,91.74,0,77,7063.98
+2025-08-01,2025,8,Válvula de control,C07 Minera del Sur,Mayorista,Sur,91.74,0,87,7981.38
+2025-08-01,2025,8,Válvula de control,C08 Ferretería Austral,Minorista,Sur,91.74,0,31,2843.94
+2025-08-01,2025,8,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,91.74,0,45,4128.3
+2025-08-01,2025,8,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,91.74,0,77,7063.98
+2025-08-01,2025,8,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,91.74,0,23,2110.02
+2025-08-01,2025,8,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,91.74,0,48,4403.52
+2025-08-01,2025,8,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.43,0,237,4604.91
+2025-08-01,2025,8,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.43,1,174,3380.82
+2025-08-01,2025,8,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.43,1,227,4410.61
+2025-08-01,2025,8,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.43,0,206,4002.58
+2025-08-01,2025,8,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.43,0,93,1806.99
+2025-08-01,2025,8,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.43,0,161,3128.23
+2025-08-01,2025,8,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.43,0,187,3633.41
+2025-08-01,2025,8,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.43,0,65,1262.95
+2025-08-01,2025,8,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.43,0,118,2292.74
+2025-08-01,2025,8,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.43,0,137,2661.91
+2025-08-01,2025,8,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.43,0,62,1204.66
+2025-08-01,2025,8,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.43,1,124,2409.32
+2025-09-01,2025,9,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,27.05,0,307,8304.35
+2025-09-01,2025,9,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,27.05,0,134,3624.7
+2025-09-01,2025,9,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,27.05,1,238,6437.9
+2025-09-01,2025,9,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,27.05,0,213,5761.65
+2025-09-01,2025,9,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,27.05,0,77,2082.85
+2025-09-01,2025,9,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,27.05,0,151,4084.55
+2025-09-01,2025,9,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,27.05,0,164,4436.2
+2025-09-01,2025,9,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,27.05,0,63,1704.15
+2025-09-01,2025,9,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,27.05,0,106,2867.3
+2025-09-01,2025,9,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,27.05,0,130,3516.5
+2025-09-01,2025,9,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,27.05,0,74,2001.7
+2025-09-01,2025,9,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,27.05,1,120,3246.0
+2025-09-01,2025,9,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.28,0,175,7574.0
+2025-09-01,2025,9,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.28,0,82,3548.96
+2025-09-01,2025,9,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.28,0,101,4371.28
+2025-09-01,2025,9,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.28,0,130,5626.4
+2025-09-01,2025,9,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.28,0,58,2510.24
+2025-09-01,2025,9,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.28,0,85,3678.8
+2025-09-01,2025,9,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.28,0,103,4457.84
+2025-09-01,2025,9,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.28,0,43,1861.04
+2025-09-01,2025,9,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.28,1,73,3159.44
+2025-09-01,2025,9,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.28,0,83,3592.24
+2025-09-01,2025,9,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.28,1,44,1904.32
+2025-09-01,2025,9,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.28,0,51,2207.28
+2025-09-01,2025,9,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,91.97,0,147,13519.59
+2025-09-01,2025,9,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,91.97,0,62,5702.14
+2025-09-01,2025,9,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,91.97,0,102,9380.94
+2025-09-01,2025,9,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,91.97,0,98,9013.06
+2025-09-01,2025,9,Válvula de control,C05 Talleres Unidos,Minorista,Centro,91.97,0,36,3310.92
+2025-09-01,2025,9,Válvula de control,C06 Logística Capital,Distribuidor,Centro,91.97,0,65,5978.05
+2025-09-01,2025,9,Válvula de control,C07 Minera del Sur,Mayorista,Sur,91.97,0,59,5426.23
+2025-09-01,2025,9,Válvula de control,C08 Ferretería Austral,Minorista,Sur,91.97,0,25,2299.25
+2025-09-01,2025,9,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,91.97,0,51,4690.47
+2025-09-01,2025,9,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,91.97,0,69,6345.93
+2025-09-01,2025,9,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,91.97,0,27,2483.19
+2025-09-01,2025,9,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,91.97,0,50,4598.5
+2025-09-01,2025,9,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.48,0,328,6389.44
+2025-09-01,2025,9,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.48,0,122,2376.56
+2025-09-01,2025,9,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.48,0,193,3759.64
+2025-09-01,2025,9,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.48,0,249,4850.52
+2025-09-01,2025,9,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.48,0,91,1772.68
+2025-09-01,2025,9,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.48,0,173,3370.04
+2025-09-01,2025,9,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.48,0,193,3759.64
+2025-09-01,2025,9,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.48,0,66,1285.68
+2025-09-01,2025,9,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.48,0,132,2571.36
+2025-09-01,2025,9,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.48,0,149,2902.52
+2025-09-01,2025,9,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.48,0,67,1305.16
+2025-09-01,2025,9,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.48,0,105,2045.4
+2025-10-01,2025,10,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,27.12,0,265,7186.8
+2025-10-01,2025,10,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,27.12,0,105,2847.6
+2025-10-01,2025,10,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,27.12,0,189,5125.68
+2025-10-01,2025,10,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,27.12,0,172,4664.64
+2025-10-01,2025,10,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,27.12,0,79,2142.48
+2025-10-01,2025,10,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,27.12,0,144,3905.28
+2025-10-01,2025,10,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,27.12,1,224,6074.88
+2025-10-01,2025,10,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,27.12,0,60,1627.2
+2025-10-01,2025,10,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,27.12,0,103,2793.36
+2025-10-01,2025,10,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,27.12,0,109,2956.08
+2025-10-01,2025,10,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,27.12,1,78,2115.36
+2025-10-01,2025,10,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,27.12,1,119,3227.28
+2025-10-01,2025,10,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.39,0,173,7506.47
+2025-10-01,2025,10,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.39,0,75,3254.25
+2025-10-01,2025,10,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.39,0,148,6421.72
+2025-10-01,2025,10,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.39,0,132,5727.48
+2025-10-01,2025,10,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.39,0,69,2993.91
+2025-10-01,2025,10,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.39,0,83,3601.37
+2025-10-01,2025,10,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.39,0,137,5944.43
+2025-10-01,2025,10,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.39,0,40,1735.6
+2025-10-01,2025,10,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.39,1,87,3774.93
+2025-10-01,2025,10,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.39,0,78,3384.42
+2025-10-01,2025,10,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.39,0,41,1778.99
+2025-10-01,2025,10,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.39,0,74,3210.86
+2025-10-01,2025,10,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,92.2,1,171,15766.2
+2025-10-01,2025,10,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,92.2,0,56,5163.2
+2025-10-01,2025,10,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,92.2,0,79,7283.8
+2025-10-01,2025,10,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,92.2,1,120,11064.0
+2025-10-01,2025,10,Válvula de control,C05 Talleres Unidos,Minorista,Centro,92.2,0,43,3964.6
+2025-10-01,2025,10,Válvula de control,C06 Logística Capital,Distribuidor,Centro,92.2,0,64,5900.8
+2025-10-01,2025,10,Válvula de control,C07 Minera del Sur,Mayorista,Sur,92.2,0,101,9312.2
+2025-10-01,2025,10,Válvula de control,C08 Ferretería Austral,Minorista,Sur,92.2,0,29,2673.8
+2025-10-01,2025,10,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,92.2,0,56,5163.2
+2025-10-01,2025,10,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,92.2,0,61,5624.2
+2025-10-01,2025,10,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,92.2,0,32,2950.4
+2025-10-01,2025,10,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,92.2,0,50,4610.0
+2025-10-01,2025,10,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.52,1,509,9935.68
+2025-10-01,2025,10,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.52,0,157,3064.64
+2025-10-01,2025,10,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.52,0,255,4977.6
+2025-10-01,2025,10,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.52,0,262,5114.24
+2025-10-01,2025,10,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.52,0,97,1893.44
+2025-10-01,2025,10,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.52,0,205,4001.6
+2025-10-01,2025,10,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.52,0,242,4723.84
+2025-10-01,2025,10,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.52,0,82,1600.64
+2025-10-01,2025,10,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.52,0,155,3025.6
+2025-10-01,2025,10,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.52,0,185,3611.2
+2025-10-01,2025,10,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.52,0,69,1346.88
+2025-10-01,2025,10,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.52,1,140,2732.8
+2025-11-01,2025,11,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,27.18,0,217,5898.06
+2025-11-01,2025,11,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,27.18,0,91,2473.38
+2025-11-01,2025,11,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,27.18,0,155,4212.9
+2025-11-01,2025,11,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,27.18,0,153,4158.54
+2025-11-01,2025,11,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,27.18,1,82,2228.76
+2025-11-01,2025,11,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,27.18,0,127,3451.86
+2025-11-01,2025,11,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,27.18,0,131,3560.58
+2025-11-01,2025,11,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,27.18,0,52,1413.36
+2025-11-01,2025,11,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,27.18,0,102,2772.36
+2025-11-01,2025,11,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,27.18,0,121,3288.78
+2025-11-01,2025,11,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,27.18,0,55,1494.9
+2025-11-01,2025,11,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,27.18,1,115,3125.7
+2025-11-01,2025,11,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.49,1,257,11176.93
+2025-11-01,2025,11,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.49,0,75,3261.75
+2025-11-01,2025,11,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.49,0,130,5653.7
+2025-11-01,2025,11,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.49,0,150,6523.5
+2025-11-01,2025,11,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.49,0,57,2478.93
+2025-11-01,2025,11,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.49,0,96,4175.04
+2025-11-01,2025,11,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.49,0,132,5740.68
+2025-11-01,2025,11,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.49,0,50,2174.5
+2025-11-01,2025,11,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.49,0,83,3609.67
+2025-11-01,2025,11,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.49,0,77,3348.73
+2025-11-01,2025,11,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.49,0,43,1870.07
+2025-11-01,2025,11,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.49,0,63,2739.87
+2025-11-01,2025,11,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,92.43,0,146,13494.78
+2025-11-01,2025,11,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,92.43,0,66,6100.38
+2025-11-01,2025,11,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,92.43,0,110,10167.3
+2025-11-01,2025,11,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,92.43,0,106,9797.58
+2025-11-01,2025,11,Válvula de control,C05 Talleres Unidos,Minorista,Centro,92.43,0,44,4066.92
+2025-11-01,2025,11,Válvula de control,C06 Logística Capital,Distribuidor,Centro,92.43,0,74,6839.82
+2025-11-01,2025,11,Válvula de control,C07 Minera del Sur,Mayorista,Sur,92.43,0,80,7394.4
+2025-11-01,2025,11,Válvula de control,C08 Ferretería Austral,Minorista,Sur,92.43,0,30,2772.9
+2025-11-01,2025,11,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,92.43,0,54,4991.22
+2025-11-01,2025,11,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,92.43,0,59,5453.37
+2025-11-01,2025,11,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,92.43,1,38,3512.34
+2025-11-01,2025,11,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,92.43,0,59,5453.37
+2025-11-01,2025,11,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.57,0,312,6105.84
+2025-11-01,2025,11,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.57,0,175,3424.75
+2025-11-01,2025,11,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.57,0,258,5049.06
+2025-11-01,2025,11,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.57,0,288,5636.16
+2025-11-01,2025,11,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.57,1,149,2915.93
+2025-11-01,2025,11,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.57,0,191,3737.87
+2025-11-01,2025,11,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.57,0,215,4207.55
+2025-11-01,2025,11,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.57,0,89,1741.73
+2025-11-01,2025,11,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.57,0,157,3072.49
+2025-11-01,2025,11,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.57,0,187,3659.59
+2025-11-01,2025,11,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.57,0,92,1800.44
+2025-11-01,2025,11,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.57,0,131,2563.67
+2025-12-01,2025,12,Filtro de aire,C01 Metalúrgica Andina,Mayorista,Norte,27.25,0,227,6185.75
+2025-12-01,2025,12,Filtro de aire,C02 Ensambles del Norte,Minorista,Norte,27.25,0,91,2479.75
+2025-12-01,2025,12,Filtro de aire,C03 Agroindustrias Río,Distribuidor,Norte,27.25,0,148,4033.0
+2025-12-01,2025,12,Filtro de aire,C04 Plásticos Centrales,Mayorista,Centro,27.25,0,145,3951.25
+2025-12-01,2025,12,Filtro de aire,C05 Talleres Unidos,Minorista,Centro,27.25,0,66,1798.5
+2025-12-01,2025,12,Filtro de aire,C06 Logística Capital,Distribuidor,Centro,27.25,0,92,2507.0
+2025-12-01,2025,12,Filtro de aire,C07 Minera del Sur,Mayorista,Sur,27.25,0,157,4278.25
+2025-12-01,2025,12,Filtro de aire,C08 Ferretería Austral,Minorista,Sur,27.25,1,75,2043.75
+2025-12-01,2025,12,Filtro de aire,C09 Alimentos Patagonia,Distribuidor,Sur,27.25,0,80,2180.0
+2025-12-01,2025,12,Filtro de aire,C10 Textiles Pacífico,Mayorista,Occidente,27.25,0,105,2861.25
+2025-12-01,2025,12,Filtro de aire,C11 Mantenimiento Costa,Minorista,Occidente,27.25,0,59,1607.75
+2025-12-01,2025,12,Filtro de aire,C12 Energía Occidental,Distribuidor,Occidente,27.25,1,109,2970.25
+2025-12-01,2025,12,Rodamiento,C01 Metalúrgica Andina,Mayorista,Norte,43.6,0,210,9156.0
+2025-12-01,2025,12,Rodamiento,C02 Ensambles del Norte,Minorista,Norte,43.6,0,81,3531.6
+2025-12-01,2025,12,Rodamiento,C03 Agroindustrias Río,Distribuidor,Norte,43.6,0,138,6016.8
+2025-12-01,2025,12,Rodamiento,C04 Plásticos Centrales,Mayorista,Centro,43.6,0,140,6104.0
+2025-12-01,2025,12,Rodamiento,C05 Talleres Unidos,Minorista,Centro,43.6,0,67,2921.2
+2025-12-01,2025,12,Rodamiento,C06 Logística Capital,Distribuidor,Centro,43.6,0,111,4839.6
+2025-12-01,2025,12,Rodamiento,C07 Minera del Sur,Mayorista,Sur,43.6,0,130,5668.0
+2025-12-01,2025,12,Rodamiento,C08 Ferretería Austral,Minorista,Sur,43.6,0,44,1918.4
+2025-12-01,2025,12,Rodamiento,C09 Alimentos Patagonia,Distribuidor,Sur,43.6,0,91,3967.6
+2025-12-01,2025,12,Rodamiento,C10 Textiles Pacífico,Mayorista,Occidente,43.6,1,137,5973.2
+2025-12-01,2025,12,Rodamiento,C11 Mantenimiento Costa,Minorista,Occidente,43.6,0,43,1874.8
+2025-12-01,2025,12,Rodamiento,C12 Energía Occidental,Distribuidor,Occidente,43.6,0,72,3139.2
+2025-12-01,2025,12,Válvula de control,C01 Metalúrgica Andina,Mayorista,Norte,92.65,1,142,13156.3
+2025-12-01,2025,12,Válvula de control,C02 Ensambles del Norte,Minorista,Norte,92.65,0,55,5095.75
+2025-12-01,2025,12,Válvula de control,C03 Agroindustrias Río,Distribuidor,Norte,92.65,0,89,8245.85
+2025-12-01,2025,12,Válvula de control,C04 Plásticos Centrales,Mayorista,Centro,92.65,0,79,7319.35
+2025-12-01,2025,12,Válvula de control,C05 Talleres Unidos,Minorista,Centro,92.65,0,42,3891.3
+2025-12-01,2025,12,Válvula de control,C06 Logística Capital,Distribuidor,Centro,92.65,0,66,6114.9
+2025-12-01,2025,12,Válvula de control,C07 Minera del Sur,Mayorista,Sur,92.65,0,98,9079.7
+2025-12-01,2025,12,Válvula de control,C08 Ferretería Austral,Minorista,Sur,92.65,0,33,3057.45
+2025-12-01,2025,12,Válvula de control,C09 Alimentos Patagonia,Distribuidor,Sur,92.65,0,62,5744.3
+2025-12-01,2025,12,Válvula de control,C10 Textiles Pacífico,Mayorista,Occidente,92.65,0,63,5836.95
+2025-12-01,2025,12,Válvula de control,C11 Mantenimiento Costa,Minorista,Occidente,92.65,0,27,2501.55
+2025-12-01,2025,12,Válvula de control,C12 Energía Occidental,Distribuidor,Occidente,92.65,0,48,4447.2
+2025-12-01,2025,12,Correa de transmisión,C01 Metalúrgica Andina,Mayorista,Norte,19.62,0,378,7416.36
+2025-12-01,2025,12,Correa de transmisión,C02 Ensambles del Norte,Minorista,Norte,19.62,0,189,3708.18
+2025-12-01,2025,12,Correa de transmisión,C03 Agroindustrias Río,Distribuidor,Norte,19.62,0,284,5572.08
+2025-12-01,2025,12,Correa de transmisión,C04 Plásticos Centrales,Mayorista,Centro,19.62,0,269,5277.78
+2025-12-01,2025,12,Correa de transmisión,C05 Talleres Unidos,Minorista,Centro,19.62,0,129,2530.98
+2025-12-01,2025,12,Correa de transmisión,C06 Logística Capital,Distribuidor,Centro,19.62,0,166,3256.92
+2025-12-01,2025,12,Correa de transmisión,C07 Minera del Sur,Mayorista,Sur,19.62,1,370,7259.4
+2025-12-01,2025,12,Correa de transmisión,C08 Ferretería Austral,Minorista,Sur,19.62,0,80,1569.6
+2025-12-01,2025,12,Correa de transmisión,C09 Alimentos Patagonia,Distribuidor,Sur,19.62,0,175,3433.5
+2025-12-01,2025,12,Correa de transmisión,C10 Textiles Pacífico,Mayorista,Occidente,19.62,0,175,3433.5
+2025-12-01,2025,12,Correa de transmisión,C11 Mantenimiento Costa,Minorista,Occidente,19.62,0,85,1667.7
+2025-12-01,2025,12,Correa de transmisión,C12 Energía Occidental,Distribuidor,Occidente,19.62,0,137,2687.94
